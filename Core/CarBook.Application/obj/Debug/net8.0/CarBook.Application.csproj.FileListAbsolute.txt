@@ -1,0 +1,15 @@
+C:\Users\alpha\Desktop\Project\C#\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Application.deps.json
+C:\Users\alpha\Desktop\Project\C#\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Application.dll
+C:\Users\alpha\Desktop\Project\C#\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Application.pdb
+C:\Users\alpha\Desktop\Project\C#\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Domain.dll
+C:\Users\alpha\Desktop\Project\C#\CarBook\Core\CarBook.Application\bin\Debug\net8.0\CarBook.Domain.pdb
+C:\Users\alpha\Desktop\Project\C#\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.csproj.AssemblyReference.cache
+C:\Users\alpha\Desktop\Project\C#\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alpha\Desktop\Project\C#\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.AssemblyInfoInputs.cache
+C:\Users\alpha\Desktop\Project\C#\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.AssemblyInfo.cs
+C:\Users\alpha\Desktop\Project\C#\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\alpha\Desktop\Project\C#\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook..F1F8929D.Up2Date
+C:\Users\alpha\Desktop\Project\C#\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.dll
+C:\Users\alpha\Desktop\Project\C#\CarBook\Core\CarBook.Application\obj\Debug\net8.0\refint\CarBook.Application.dll
+C:\Users\alpha\Desktop\Project\C#\CarBook\Core\CarBook.Application\obj\Debug\net8.0\CarBook.Application.pdb
+C:\Users\alpha\Desktop\Project\C#\CarBook\Core\CarBook.Application\obj\Debug\net8.0\ref\CarBook.Application.dll
