@@ -1991,6 +1991,16 @@
             "rid": "win"
           }
         }
+      },
+      "CarBook.Dto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CarBook.Dto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CarBook.Dto.dll": {}
+        }
       }
     }
   },
@@ -5558,10 +5568,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "CarBook.Dto/1.0.0": {
+      "type": "project",
+      "path": "../CarBook.Dto/CarBook.Dto.csproj",
+      "msbuildProject": "../CarBook.Dto/CarBook.Dto.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "CarBook.Dto >= 1.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 8.0.7"
     ]
   },
@@ -5596,7 +5612,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.Dto\\CarBook.Dto.csproj": {
+              "projectPath": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.Dto\\CarBook.Dto.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

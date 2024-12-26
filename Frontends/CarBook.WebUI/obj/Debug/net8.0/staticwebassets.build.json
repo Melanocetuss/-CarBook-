@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yd4YuTy6J5Tz1K+tQZ5bXljNvDEYuGSFb7rbn/Y5Hd0=",
+  "Hash": "nGniXhcS2bj0mDln9pd9v+/8mVSsLupgRfibHcAtlsI=",
   "Source": "CarBook.WebUI",
   "BasePath": "_content/CarBook.WebUI",
   "Mode": "Default",
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "r2oqkzlddk",
-      "Integrity": "Y4z6Ivcv7u51yO9TrRm6zJCjfdtpU+hk2kxkIVhpbts=",
+      "Fingerprint": "cgt4z45cp8",
+      "Integrity": "5K5hJ1M6+AvUHHs5fFeX6ARdDdeHxBJEgB1z6inDhDY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\carbook-master\\about.html"
@@ -5496,6 +5496,51 @@
       ]
     },
     {
+      "Route": "carbook-master/about.cgt4z45cp8.html",
+      "AssetFile": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\carbook-master\\about.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "17217"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5K5hJ1M6+AvUHHs5fFeX6ARdDdeHxBJEgB1z6inDhDY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 26 Dec 2024 01:16:36 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cgt4z45cp8"
+        },
+        {
+          "Name": "label",
+          "Value": "carbook-master/about.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5K5hJ1M6+AvUHHs5fFeX6ARdDdeHxBJEgB1z6inDhDY="
+        }
+      ]
+    },
+    {
       "Route": "carbook-master/about.html",
       "AssetFile": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\carbook-master\\about.html",
       "Selectors": [],
@@ -5506,7 +5551,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14778"
+          "Value": "17217"
         },
         {
           "Name": "Content-Type",
@@ -5514,11 +5559,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Y4z6Ivcv7u51yO9TrRm6zJCjfdtpU+hk2kxkIVhpbts=\""
+          "Value": "\"5K5hJ1M6+AvUHHs5fFeX6ARdDdeHxBJEgB1z6inDhDY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 15 Jan 2024 08:33:44 GMT"
+          "Value": "Thu, 26 Dec 2024 01:16:36 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5528,52 +5573,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Y4z6Ivcv7u51yO9TrRm6zJCjfdtpU+hk2kxkIVhpbts="
-        }
-      ]
-    },
-    {
-      "Route": "carbook-master/about.r2oqkzlddk.html",
-      "AssetFile": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\carbook-master\\about.html",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "14778"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/html"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Y4z6Ivcv7u51yO9TrRm6zJCjfdtpU+hk2kxkIVhpbts=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Mon, 15 Jan 2024 08:33:44 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "r2oqkzlddk"
-        },
-        {
-          "Name": "label",
-          "Value": "carbook-master/about.html"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Y4z6Ivcv7u51yO9TrRm6zJCjfdtpU+hk2kxkIVhpbts="
+          "Value": "sha256-5K5hJ1M6+AvUHHs5fFeX6ARdDdeHxBJEgB1z6inDhDY="
         }
       ]
     },
