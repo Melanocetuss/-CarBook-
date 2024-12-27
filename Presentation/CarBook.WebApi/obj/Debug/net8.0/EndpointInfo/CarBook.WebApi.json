@@ -469,6 +469,18 @@
         }
       }
     },
+    "/api/Cars/GetLast5CarsWithBrand": {
+      "get": {
+        "tags": [
+          "Cars"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Categories": {
       "get": {
         "tags": [
