@@ -469,6 +469,18 @@
         }
       }
     },
+    "/api/Blogs/GetAllBlogWithAuthors": {
+      "get": {
+        "tags": [
+          "Blogs"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Brands": {
       "get": {
         "tags": [
@@ -574,6 +586,18 @@
               "format": "int32"
             }
           }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/CarPricings/GetCarPricingWithCar": {
+      "get": {
+        "tags": [
+          "CarPricings"
         ],
         "responses": {
           "200": {
@@ -1804,6 +1828,10 @@
             "type": "string",
             "nullable": true
           },
+          "description": {
+            "type": "string",
+            "nullable": true
+          },
           "authorID": {
             "type": "integer",
             "format": "int32"
@@ -2099,6 +2127,10 @@
             "format": "int32"
           },
           "title": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
             "type": "string",
             "nullable": true
           },

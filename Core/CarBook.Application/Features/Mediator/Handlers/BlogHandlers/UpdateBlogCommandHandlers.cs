@@ -22,6 +22,7 @@ namespace CarBook.Application.Features.Mediator.Handlers.BlogHandlers
         {
             var values = await _repository.GetByIdAsync(request.BlogID);
             values.Title = request.Title;
+            values.Description = request.Description;
             values.AuthorID = request.AuthorID;
             values.CoverImageUrl = request.CoverImageUrl;
             values.CreatedDate = request.CreatedDate;

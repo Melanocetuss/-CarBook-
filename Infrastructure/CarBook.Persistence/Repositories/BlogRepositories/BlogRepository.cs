@@ -17,10 +17,16 @@ namespace CarBook.Persistence.Repositories.BlogRepositories
         {
             _context = context;
         }
-
+   
         public List<Blog> GetLast3BlogWithAuthorsAndCategories()
         {
             var values = _context.Blogs.Include(x=> x.Author).Include(x=> x.Category).OrderByDescending(x=> x.BlogID).Take(3).ToList();
+            return values;
+        }
+
+        public List<Blog> GetAllBlogsWithAuthor()
+        {
+            var values = _context.Blogs.Include(x => x.Author).Include(x => x.Category).ToList();
             return values;
         }
     }

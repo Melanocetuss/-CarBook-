@@ -297,6 +297,16 @@
   },
   {
     "ContainingType": "CarBook.WebApi.Controllers.BlogsController",
+    "Method": "GetGetAllBlogWithAuthors",
+    "RelativePath": "api/Blogs/GetAllBlogWithAuthors",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.BlogsController",
     "Method": "GetLast3BlogWithAuthorsAndCategories",
     "RelativePath": "api/Blogs/GetLast3BlogWithAuthorsAndCategories",
     "HttpMethod": "GET",
@@ -377,6 +387,16 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.CarPricingsController",
+    "Method": "GetCarPricingWithCarList",
+    "RelativePath": "api/CarPricings/GetCarPricingWithCar",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": []
   },
   {
