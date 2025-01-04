@@ -1,0 +1,36 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Head -->
+@await Html.PartialAsync("AdminHeadPartial.cshtml")
+
+<body>
+
+    <div id="layout-wrapper">
+        
+        <!-- NavBar -->
+        @await Html.PartialAsync("AdminNavbarPartial.cshtml")      
+        
+        <!-- Sidebar -->
+        @await Html.PartialAsync("AdminSidebarPartial.cshtml")    
+            
+        <div class="main-content">
+            <!-- Main -->
+            @RenderBody()
+            
+            <!-- Fotter -->
+            @await Html.PartialAsync("AdminFooterPartial.cshtml")           
+
+        </div>
+    </div>
+
+    <!-- Script -->
+    @await Html.PartialAsync("AdminScriptPartial.cshtml")
+    
+</body>
+</html>
