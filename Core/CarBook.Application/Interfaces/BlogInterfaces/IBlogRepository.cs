@@ -12,5 +12,6 @@ namespace CarBook.Application.Interfaces.BlogInterfaces
         public List<Blog> GetLast3BlogWithAuthorsAndCategories();
 
         public List<Blog> GetAllBlogsWithAuthor();
+        public List<Blog> GetBlogByAuthorId(int id);
     }
 }

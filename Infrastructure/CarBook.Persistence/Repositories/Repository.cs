@@ -30,13 +30,13 @@ namespace CarBook.Persistence.Repositories
 
         public async Task<T> GetByIdAsync(int id)
         {
-            return await  _context.Set<T>().FindAsync(id);
+            return await _context.Set<T>().FindAsync(id);
         }
 
         public async Task RemoveAsync(T entity)
         {
             _context.Set<T>().Remove(entity);
-            await  _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
         }
 
         public async Task UpdateAsync(T entity)

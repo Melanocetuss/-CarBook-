@@ -5,6 +5,2474 @@
       "PackagePath": "staticwebassets\\CarBook.WebUI.dzggynz1u5.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\css\\icons.css",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\css\\icons.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\css\\icons.css.map",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\css\\icons.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\css\\icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\css\\icons.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\css\\icons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\css\\theme.css",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\css\\theme.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\css\\theme.css.map",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\css\\theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\css\\theme.min.css",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\css\\theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\css\\theme.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\css\\theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\dripicons-v2.eot",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\dripicons-v2.eot"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\dripicons-v2.svg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\dripicons-v2.svg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\dripicons-v2.ttf",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\dripicons-v2.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\dripicons-v2.woff",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\dripicons-v2.woff"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\feather.svg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\feather.svg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\feather.ttf",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\feather.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\feather.woff",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\feather.woff"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\404-error.svg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\404-error.svg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\500-error.svg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\500-error.svg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\bg-login.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\bg-login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\bg-register.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\bg-register.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\flags\\french.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\flags\\french.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\flags\\germany.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\flags\\germany.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\flags\\italy.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\flags\\italy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\flags\\russia.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\flags\\russia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\flags\\spain.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\flags\\spain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\flags\\us.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\flags\\us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\maintenance.svg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\maintenance.svg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\media\\sm-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\media\\sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\media\\sm-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\media\\sm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\media\\sm-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\media\\sm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\media\\sm-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\media\\sm-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\media\\sm-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\media\\sm-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\media\\sm-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\media\\sm-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\media\\sm-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\media\\sm-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\users\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\users\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\users\\avatar-10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\users\\avatar-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\users\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\users\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\users\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\users\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\users\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\users\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\users\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\users\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\users\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\users\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\users\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\users\\avatar-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\users\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\users\\avatar-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\images\\users\\avatar-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\images\\users\\avatar-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\js\\theme.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\js\\waves.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\js\\waves.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\pages\\advanced-plugins-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\pages\\advanced-plugins-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\pages\\calendar-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\pages\\calendar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\pages\\chartjs-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\pages\\chartjs-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\pages\\dashboard-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\pages\\dashboard-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\pages\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\pages\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\pages\\fileuploads-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\pages\\fileuploads-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\pages\\gmaps-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\pages\\gmaps-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\pages\\google-chart-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\pages\\google-chart-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\pages\\knob-chart-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\pages\\knob-chart-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\pages\\mask-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\pages\\mask-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\pages\\morris-chart-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\pages\\morris-chart-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\pages\\quilljs-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\pages\\quilljs-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\pages\\sparklines-chart-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\pages\\sparklines-chart-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\pages\\sweet-alert-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\pages\\sweet-alert-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\pages\\validation-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\pages\\validation-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\pages\\vectormap-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\pages\\vectormap-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\components\\_avatar.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\components\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\components\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\components\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\components\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\components\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\components\\_card.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\components\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\components\\_demos.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\components\\_demos.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\components\\_helper.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\components\\_helper.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\components\\_nav.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\components\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\components\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\components\\_print.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\components\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\components\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\components\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\components\\_table.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\components\\_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\components\\_waves.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\components\\_waves.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\icons.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\pages\\_auth.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\pages\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\pages\\_pricing.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\pages\\_pricing.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\_calendar.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\_calendar.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\_custom-scrollbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\_custom-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\_datatable.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\_datatable.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\_datepicker.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\_datepicker.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\_daterange.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\_daterange.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\_dripicons.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\_dripicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\_feather.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\_feather.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\_fontawesome.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\_fontawesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\_maps.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\_materialdesignicons.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\_materialdesignicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\_morris.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\_morris.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\_select2.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\_select2.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\_slimscroll.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\_slimscroll.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\_sparkline-chart.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\_sparkline-chart.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\_sweetalert.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\_sweetalert.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\_waves.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\_waves.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\plugins\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\structure\\_footer.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\structure\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\structure\\_header.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\structure\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\structure\\_menu.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\structure\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\assets\\scss\\theme.scss",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\assets\\scss\\theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\auth-404.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\auth-404.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\auth-500.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\auth-500.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\auth-lock-screen.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\auth-lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\auth-login.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\auth-login.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\auth-recoverpw.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\auth-recoverpw.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\auth-register.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\auth-register.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\calendar.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\calendar.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\charts-chartjs.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\charts-chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\charts-google.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\charts-google.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\charts-knob.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\charts-knob.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\charts-morris.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\charts-morris.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\charts-sparkline.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\charts-sparkline.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\forms-elements.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\forms-elements.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\forms-mask.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\forms-mask.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\forms-plugins.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\forms-plugins.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\forms-quilljs.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\forms-quilljs.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\forms-uploads.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\forms-uploads.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\forms-validation.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\forms-validation.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\icons-dripicons.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\icons-dripicons.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\icons-feather.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\icons-feather.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\icons-fontawesome.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\icons-fontawesome.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\icons-materialdesign.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\icons-materialdesign.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\index.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\maps-google.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\maps-google.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\maps-vector.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\maps-vector.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\pages-faqs.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\pages-faqs.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\pages-invoice.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\pages-invoice.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\pages-maintenance.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\pages-maintenance.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\pages-pricing.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\pages-pricing.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\pages-starter.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\pages-starter.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\tables-basic.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\tables-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\tables-datatables.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\tables-datatables.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\ui-buttons.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\ui-buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\ui-cards.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\ui-cards.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\ui-carousel.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\ui-carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\ui-embeds.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\ui-embeds.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\ui-general.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\ui-general.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\ui-grid.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\ui-grid.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\ui-media-objects.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\ui-media-objects.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\ui-modals.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\ui-modals.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\ui-progressbars.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\ui-progressbars.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\ui-scrollspy.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\ui-scrollspy.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\ui-spinners.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\ui-spinners.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\ui-sweetalerts.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\ui-sweetalerts.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\ui-tabs.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\ui-tabs.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\ui-toasts.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\ui-toasts.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\ui-tooltips-popovers.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\ui-tooltips-popovers.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\horizontal\\ui-typography.html",
+      "PackagePath": "staticwebassets\\Admin\\horizontal\\ui-typography.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\autonumeric\\autoNumeric-min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\autonumeric\\autoNumeric-min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\bootstrap-colorpicker\\bootstrap-colorpicker.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-colorpicker\\bootstrap-colorpicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\bootstrap-colorpicker\\bootstrap-colorpicker.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-colorpicker\\bootstrap-colorpicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\bootstrap-datepicker\\bootstrap-datepicker.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-datepicker\\bootstrap-datepicker.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\bootstrap-datepicker\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-datepicker\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\bootstrap-maxlength\\bootstrap-maxlength.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-maxlength\\bootstrap-maxlength.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\bootstrap-touchspin\\jquery.bootstrap-touchspin.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-touchspin\\jquery.bootstrap-touchspin.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\bootstrap-touchspin\\jquery.bootstrap-touchspin.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\chart-js\\chart.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\chart-js\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\datatables\\buttons.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\buttons.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\datatables\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\datatables\\buttons.flash.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\buttons.flash.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\datatables\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\datatables\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\datatables\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\datatables\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\datatables\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\datatables\\dataTables.keyTable.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\dataTables.keyTable.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\datatables\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\datatables\\dataTables.select.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\dataTables.select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\datatables\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\datatables\\responsive.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\responsive.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\datatables\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\datatables\\select.bootstrap4.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\select.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\datatables\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\datatables\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\daterangepicker\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\daterangepicker\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\daterangepicker\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\daterangepicker\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\dropify\\dropify.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\dropify\\dropify.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\dropify\\dropify.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\dropify\\dropify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\dropify\\fonts\\dropify.eot",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\dropify\\fonts\\dropify.eot"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\dropify\\fonts\\dropify.svg",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\dropify\\fonts\\dropify.svg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\dropify\\fonts\\dropify.ttf",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\dropify\\fonts\\dropify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\dropify\\fonts\\dropify.woff",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\dropify\\fonts\\dropify.woff"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\fullcalendar\\css\\fullcalendar.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\css\\fullcalendar.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\fullcalendar\\js\\fullcalendar.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\fullcalendar\\js\\fullcalendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\gmaps\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\gmaps\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\jquery-knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\jquery-mask\\jquery.mask.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-mask\\jquery.mask.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\jquery-sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\jquery-ui\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-ui\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\jquery-ui\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jquery-ui\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\jvectormap\\gdp-data.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jvectormap\\gdp-data.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\jvectormap\\jquery-jvectormap-2.0.2.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jvectormap\\jquery-jvectormap-2.0.2.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\jvectormap\\jquery-jvectormap-2.0.2.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jvectormap\\jquery-jvectormap-2.0.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\jvectormap\\jquery-jvectormap-europe-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jvectormap\\jquery-jvectormap-europe-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\jvectormap\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jvectormap\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\jvectormap\\jquery-jvectormap-us-aea-en.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jvectormap\\jquery-jvectormap-us-aea-en.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\jvectormap\\jquery-jvectormap-us-il-chicago-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jvectormap\\jquery-jvectormap-us-il-chicago-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\jvectormap\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\katex\\katex.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\katex\\katex.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\moment\\moment.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\moment\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\morris-js\\morris.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\morris-js\\morris.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\quill\\quill.core.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\quill\\quill.core.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\quill\\quill.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\quill\\quill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\raphael\\raphael.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\raphael\\raphael.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\switchery\\switchery.min.css",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\switchery\\switchery.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\plugins\\switchery\\switchery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\plugins\\switchery\\switchery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\css\\icons.css",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\css\\icons.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\css\\icons.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\css\\icons.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\css\\icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\css\\icons.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\css\\icons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\css\\theme.css",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\css\\theme.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\css\\theme.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\css\\theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\css\\theme.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\css\\theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\css\\theme.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\css\\theme.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\dripicons-v2.eot",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\dripicons-v2.eot"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\dripicons-v2.svg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\dripicons-v2.svg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\dripicons-v2.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\dripicons-v2.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\dripicons-v2.woff",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\dripicons-v2.woff"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\feather.svg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\feather.svg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\feather.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\feather.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\feather.woff",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\feather.woff"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\404-error.svg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\404-error.svg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\500-error.svg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\500-error.svg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\bg-login.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\bg-login.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\bg-register.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\bg-register.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\flags\\french.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\flags\\french.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\flags\\germany.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\flags\\germany.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\flags\\italy.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\flags\\italy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\flags\\russia.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\flags\\russia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\flags\\spain.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\flags\\spain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\flags\\turkey.png",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\flags\\turkey.png"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\flags\\us.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\flags\\us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\maintenance.svg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\maintenance.svg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\media\\sm-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\media\\sm-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\media\\sm-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\media\\sm-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\media\\sm-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\media\\sm-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\media\\sm-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\media\\sm-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\media\\sm-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\media\\sm-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\media\\sm-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\media\\sm-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\media\\sm-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\media\\sm-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\users\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\users\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\users\\avatar-10.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\users\\avatar-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\users\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\users\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\users\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\users\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\users\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\users\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\users\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\users\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\users\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\users\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\users\\avatar-7.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\users\\avatar-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\users\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\users\\avatar-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\images\\users\\avatar-9.jpg",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\images\\users\\avatar-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\js\\metismenu.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\js\\metismenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\js\\theme.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\js\\theme.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\js\\waves.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\js\\waves.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\pages\\advanced-plugins-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\pages\\advanced-plugins-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\pages\\calendar-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\pages\\calendar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\pages\\chartjs-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\pages\\chartjs-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\pages\\dashboard-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\pages\\dashboard-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\pages\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\pages\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\pages\\fileuploads-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\pages\\fileuploads-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\pages\\gmaps-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\pages\\gmaps-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\pages\\google-chart-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\pages\\google-chart-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\pages\\knob-chart-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\pages\\knob-chart-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\pages\\mask-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\pages\\mask-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\pages\\morris-chart-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\pages\\morris-chart-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\pages\\quilljs-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\pages\\quilljs-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\pages\\sparklines-chart-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\pages\\sparklines-chart-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\pages\\sweet-alert-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\pages\\sweet-alert-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\pages\\validation-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\pages\\validation-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\pages\\vectormap-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\pages\\vectormap-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\components\\_avatar.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\components\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\components\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\components\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\components\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\components\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\components\\_card.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\components\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\components\\_demos.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\components\\_demos.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\components\\_helper.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\components\\_helper.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\components\\_nav.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\components\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\components\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\components\\_print.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\components\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\components\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\components\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\components\\_table.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\components\\_table.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\components\\_waves.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\components\\_waves.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\icons.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\pages\\_auth.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\pages\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\pages\\_pricing.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\pages\\_pricing.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\_calendar.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\_calendar.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\_custom-scrollbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\_custom-scrollbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\_datatable.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\_datatable.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\_datepicker.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\_datepicker.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\_daterange.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\_daterange.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\_dripicons.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\_dripicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\_feather.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\_feather.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\_fontawesome.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\_fontawesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\_maps.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\_materialdesignicons.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\_materialdesignicons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\_morris.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\_morris.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\_select2.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\_select2.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\_sparkline-chart.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\_sparkline-chart.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\_sweetalert.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\_sweetalert.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\_waves.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\_waves.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\bootstrap\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\plugins\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\structure\\_footer.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\structure\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\structure\\_header.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\structure\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\structure\\_menu.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\structure\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\assets\\scss\\theme.scss",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\assets\\scss\\theme.scss"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\calendar.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\calendar.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\charts-chartjs.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\charts-chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\charts-google.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\charts-google.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\charts-knob.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\charts-knob.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\charts-morris.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\charts-morris.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\charts-sparkline.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\charts-sparkline.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\forms-elements.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\forms-elements.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\forms-mask.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\forms-mask.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\forms-plugins.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\forms-plugins.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\forms-quilljs.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\forms-quilljs.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\forms-uploads.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\forms-uploads.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\forms-validation.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\forms-validation.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\icons-dripicons.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\icons-dripicons.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\icons-feather.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\icons-feather.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\icons-fontawesome.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\icons-fontawesome.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\icons-materialdesign.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\icons-materialdesign.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\index.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\maps-google.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\maps-google.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\maps-vector.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\maps-vector.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\pages-404.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\pages-404.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\pages-500.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\pages-500.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\pages-faqs.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\pages-faqs.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\pages-invoice.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\pages-invoice.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\pages-lock-screen.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\pages-lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\pages-login.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\pages-login.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\pages-maintenance.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\pages-maintenance.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\pages-pricing.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\pages-pricing.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\pages-recoverpw.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\pages-recoverpw.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\pages-register.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\pages-register.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\pages-starter.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\pages-starter.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\tables-basic.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\tables-basic.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\tables-datatables.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\tables-datatables.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\ui-buttons.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\ui-buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\ui-cards.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\ui-cards.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\ui-carousel.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\ui-carousel.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\ui-embeds.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\ui-embeds.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\ui-general.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\ui-general.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\ui-grid.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\ui-grid.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\ui-media-objects.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\ui-media-objects.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\ui-modals.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\ui-modals.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\ui-progressbars.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\ui-progressbars.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\ui-scrollspy.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\ui-scrollspy.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\ui-spinners.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\ui-spinners.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\ui-sweetalerts.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\ui-sweetalerts.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\ui-tabs.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\ui-tabs.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\ui-toasts.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\ui-toasts.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\ui-tooltips-popovers.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\ui-tooltips-popovers.html"
+    },
+    {
+      "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\Admin\\vertical\\ui-typography.html",
+      "PackagePath": "staticwebassets\\Admin\\vertical\\ui-typography.html"
+    },
+    {
       "Id": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\carbook-master\\about.html",
       "PackagePath": "staticwebassets\\carbook-master\\about.html"
     },

@@ -12,11 +12,7 @@ C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8
 C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\CarBook.WebUI.AssemblyInfo.cs
 C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\CarBook.WebUI.csproj.CoreCompileInputs.cache
 C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\CarBook.WebUI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\CarBook.WebUI.RazorAssemblyInfo.cache
-C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\CarBook.WebUI.RazorAssemblyInfo.cs
-C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\scopedcss\bundle\CarBook.WebUI.styles.css
-C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\scopedcss\projectbundle\CarBook.WebUI.bundle.scp.css
 C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
@@ -231,3 +227,7 @@ C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8
 C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\CarBook..7B7C417C.Up2Date
 C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\bin\Debug\net8.0\CarBook.Dto.dll
 C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\bin\Debug\net8.0\CarBook.Dto.pdb
+C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\CarBook.WebUI.RazorAssemblyInfo.cache
+C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\CarBook.WebUI.RazorAssemblyInfo.cs
+C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\alpha\Desktop\Project\C#\CarBook\Frontends\CarBook.WebUI\obj\Debug\net8.0\scopedcss\projectbundle\CarBook.WebUI.bundle.scp.css

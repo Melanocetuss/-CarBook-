@@ -1,11 +1,13 @@
-﻿<div class="about-author d-flex p-4 bg-light">
-    <div class="bio mr-5">
-        <img src="/carbook-master/images/person_1.jpg" alt="Image placeholder" class="img-fluid mb-4">
+﻿@model List<ResultGetAuthorByBlogAuthorIdDto>
+@foreach (var item in Model)
+{
+    <div class="about-author d-flex p-4 bg-light">
+        <div class="bio mr-5">
+            <img src="@item.AuthorImageUrl" alt="Image placeholder" class="img-fluid mb-4">
+        </div>
+        <div class="desc">
+            <h3>@item.AuthorName</h3>
+            <p>@item.AuthorDescription</p>
+        </div>
     </div>
-    <div class="desc">
-        <h3>Cesur Alphan</h3>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ducimus itaque, autem necessitatibus voluptate
-           quod mollitia delectus aut, sunt placeat nam vero culpa sapiente consectetur similique, inventore eos fugit cupiditate numquam!
-        </p>
-    </div>
-</div>
+}

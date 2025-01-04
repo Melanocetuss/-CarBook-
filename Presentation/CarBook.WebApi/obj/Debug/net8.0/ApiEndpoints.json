@@ -307,6 +307,22 @@
   },
   {
     "ContainingType": "CarBook.WebApi.Controllers.BlogsController",
+    "Method": "GetBlogByAuthorId",
+    "RelativePath": "api/Blogs/GetBlogByAuthorId",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.BlogsController",
     "Method": "GetLast3BlogWithAuthorsAndCategories",
     "RelativePath": "api/Blogs/GetLast3BlogWithAuthorsAndCategories",
     "HttpMethod": "GET",
@@ -555,6 +571,80 @@
     "ContainingType": "CarBook.WebApi.Controllers.CategoriesController",
     "Method": "GetCategory",
     "RelativePath": "api/Categories/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.CommentsController",
+    "Method": "CommentList",
+    "RelativePath": "api/Comments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.CommentsController",
+    "Method": "CreateComment",
+    "RelativePath": "api/Comments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "comment",
+        "Type": "CarBook.Domain.Entities.Comment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.CommentsController",
+    "Method": "RemoveComment",
+    "RelativePath": "api/Comments",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.CommentsController",
+    "Method": "UpdateComment",
+    "RelativePath": "api/Comments",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "comment",
+        "Type": "CarBook.Domain.Entities.Comment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.CommentsController",
+    "Method": "GetComment",
+    "RelativePath": "api/Comments/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -1081,6 +1171,96 @@
         "Name": "id",
         "Type": "System.Int32",
         "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.TagCloudsController",
+    "Method": "TagCloudList",
+    "RelativePath": "api/TagClouds",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.TagCloudsController",
+    "Method": "CreateTagCloud",
+    "RelativePath": "api/TagClouds",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CarBook.Application.Features.Mediator.Commands.TagCloudCommands.CreateTagCloudCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.TagCloudsController",
+    "Method": "RemoveTagCloud",
+    "RelativePath": "api/TagClouds",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.TagCloudsController",
+    "Method": "UpdateTagCloud",
+    "RelativePath": "api/TagClouds",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CarBook.Application.Features.Mediator.Commands.TagCloudCommands.UpdateTagCloudCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.TagCloudsController",
+    "Method": "GetTagCloud",
+    "RelativePath": "api/TagClouds/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.TagCloudsController",
+    "Method": "GetTagCloudByBlog",
+    "RelativePath": "api/TagClouds/GetTagCloudByBlog",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

@@ -1,8 +1,11 @@
-﻿<div class="tag-widget post-tag-container mb-5 mt-5">
+﻿@model List<ResultGetByBlogIdTagCloud>
+<div class="tag-widget post-tag-container mb-5 mt-5">
     <div class="tagcloud">
-        <a href="#" class="tag-cloud-link">Hayat</a>
-        <a href="#" class="tag-cloud-link">Spor</a>
-        <a href="#" class="tag-cloud-link">Teknoloji</a>
-        <a href="#" class="tag-cloud-link">Seyahat</a>
+
+    @foreach(var item in Model)
+    {
+            <a href="#" class="tag-cloud-link">@item.Title</a>
+    }
+        
     </div>
 </div>
