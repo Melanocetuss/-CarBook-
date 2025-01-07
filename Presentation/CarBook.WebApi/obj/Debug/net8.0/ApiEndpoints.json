@@ -443,22 +443,6 @@
   },
   {
     "ContainingType": "CarBook.WebApi.Controllers.CarsController",
-    "Method": "RemoveCar",
-    "RelativePath": "api/Cars",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CarBook.WebApi.Controllers.CarsController",
     "Method": "UpdateCar",
     "RelativePath": "api/Cars",
     "HttpMethod": "PUT",
@@ -478,6 +462,22 @@
     "Method": "GetCar",
     "RelativePath": "api/Cars/{id}",
     "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.CarsController",
+    "Method": "RemoveCar",
+    "RelativePath": "api/Cars/{id}",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [
@@ -759,22 +759,6 @@
   },
   {
     "ContainingType": "CarBook.WebApi.Controllers.FeaturesController",
-    "Method": "RemoveFeature",
-    "RelativePath": "api/Features",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "id",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CarBook.WebApi.Controllers.FeaturesController",
     "Method": "UpdateFeature",
     "RelativePath": "api/Features",
     "HttpMethod": "PUT",
@@ -794,6 +778,22 @@
     "Method": "GetFeature",
     "RelativePath": "api/Features/{id}",
     "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.FeaturesController",
+    "Method": "RemoveFeature",
+    "RelativePath": "api/Features/{id}",
+    "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
     "Parameters": [

@@ -7192,13 +7192,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\vertical\tables-basic.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"bjf8frlvl3"},{"Name":"integrity","Value":"sha256-WTRDmfy284i1RlFleBZ/l6a18rZRFLljhuukVOPXctw="},{"Name":"label","Value":"_content/CarBook.WebUI/Admin/vertical/tables-basic.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"62371"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022WTRDmfy284i1RlFleBZ/l6a18rZRFLljhuukVOPXctw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 04 Jan 2025 02:06:49 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"62371"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022WTRDmfy284i1RlFleBZ/l6a18rZRFLljhuukVOPXctw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 04 Jan 2025 22:46:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarBook.WebUI/Admin/vertical/tables-basic.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\vertical\tables-basic.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-WTRDmfy284i1RlFleBZ/l6a18rZRFLljhuukVOPXctw="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"62371"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022WTRDmfy284i1RlFleBZ/l6a18rZRFLljhuukVOPXctw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 04 Jan 2025 02:06:49 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"62371"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022WTRDmfy284i1RlFleBZ/l6a18rZRFLljhuukVOPXctw=\u0022"},{"Name":"Last-Modified","Value":"Sat, 04 Jan 2025 22:46:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarBook.WebUI/Admin/vertical/tables-datatables.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Admin\vertical\tables-datatables.html'))</AssetFile>
