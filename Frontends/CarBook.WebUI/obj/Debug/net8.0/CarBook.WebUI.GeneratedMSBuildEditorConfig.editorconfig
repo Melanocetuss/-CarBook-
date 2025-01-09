@@ -28,8 +28,80 @@ build_property._RazorSourceGeneratorDebug =
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminAbout/CreateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BYm91dFxDcmVhdGVBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminAbout/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BYm91dFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminAbout/UpdateAbout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BYm91dFxVcGRhdGVBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminAuthor/CreateAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BdXRob3JcQ3JlYXRlQXV0aG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminAuthor/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BdXRob3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminAuthor/UpdateAuthor.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5BdXRob3JcVXBkYXRlQXV0aG9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminBanner/CreateBanner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5CYW5uZXJcQ3JlYXRlQmFubmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminBanner/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5CYW5uZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminBanner/UpdateBanner.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5CYW5uZXJcVXBkYXRlQmFubmVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminBlog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5CbG9nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminCategory/CreateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXRlZ29yeVxDcmVhdGVDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminCategory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXRlZ29yeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminCategory/UpdateCategory.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5DYXRlZ29yeVxVcGRhdGVDYXRlZ29yeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminComment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Db21tZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Views/About/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Views/AdminBrand/CreateBrand.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5CcmFuZFxDcmVhdGVCcmFuZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Views/AdminBrand/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5CcmFuZFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Views/AdminBrand/UpdateBrand.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5CcmFuZFxVcGRhdGVCcmFuZC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Views/AdminCar/CreateCar.cshtml]

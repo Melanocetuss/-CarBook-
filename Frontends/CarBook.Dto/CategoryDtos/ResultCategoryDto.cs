@@ -8,7 +8,7 @@ namespace CarBook.Dto.CategoryDtos
 {
     public class ResultCategoryDto
     {
-        public int CetgoryID { get; set; }
+        public int CategoryID { get; set; }
         public string Name { get; set; }
     }
 }

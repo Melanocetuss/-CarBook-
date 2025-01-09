@@ -53,5 +53,11 @@ namespace CarBook.Persistence.Repositories.CommenRepositories
             _context.Comments.Update(entity);
             _context.SaveChanges();
         }
+
+        public List<Comment> GetCommentsByBlogId(int id)
+        {
+            return _context.Set<Comment>().Where(x=> x.BlogID == id).ToList();
+        }
+
     }
 }

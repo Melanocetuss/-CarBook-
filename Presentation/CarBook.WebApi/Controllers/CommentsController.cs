@@ -50,5 +50,12 @@ namespace CarBook.WebApi.Controllers
             return Ok("Yorum Başarıyla Guncellendi");
         }
 
+        [HttpGet("GetCommentsByBlogId")]
+        public IActionResult GetCommentsByBlogId(int id)
+        {
+            var values = _commentRepository.GetCommentsByBlogId(id);
+            return Ok(values);
+        }
+
     }
 }
