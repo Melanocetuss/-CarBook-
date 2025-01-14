@@ -51,7 +51,7 @@ namespace CarBook.WebUI.Areas.Admin.Controllers
 
             if(responseMessage.IsSuccessStatusCode)
             {
-                return RedirectToAction("Index","AdminBanner",new {area = "Admin"});
+                return RedirectToAction("Index", "AdminBanner", new { area = "Admin" });
             }
 
             return View();

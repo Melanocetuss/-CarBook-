@@ -100,6 +100,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Gb290ZXJBZGRyZXNzXFVwZGF0ZUZvb3RlckFkZHJlc3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminLocation/CreateLocation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Mb2NhdGlvblxDcmVhdGVMb2NhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminLocation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Mb2NhdGlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminLocation/UpdateLocation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Mb2NhdGlvblxVcGRhdGVMb2NhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminPricing/CreatePricing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QcmljaW5nXENyZWF0ZVByaWNpbmcuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -110,6 +122,42 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminPricing/UpdatePricing.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5QcmljaW5nXFVwZGF0ZVByaWNpbmcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminService/CreateService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5TZXJ2aWNlXENyZWF0ZVNlcnZpY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminService/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5TZXJ2aWNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminService/UpdateService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5TZXJ2aWNlXFVwZGF0ZVNlcnZpY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminSocialMedia/CreateSocialMedia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Tb2NpYWxNZWRpYVxDcmVhdGVTb2NpYWxNZWRpYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminSocialMedia/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Tb2NpYWxNZWRpYVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminSocialMedia/UpdateSocialMedia.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5Tb2NpYWxNZWRpYVxVcGRhdGVTb2NpYWxNZWRpYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminTestimonial/CreateTestimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5UZXN0aW1vbmlhbFxDcmVhdGVUZXN0aW1vbmlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminTestimonial/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5UZXN0aW1vbmlhbFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/AdminTestimonial/UpdateTestimonial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcQWRtaW5cVmlld3NcQWRtaW5UZXN0aW1vbmlhbFxVcGRhdGVUZXN0aW1vbmlhbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Areas/Admin/Views/_ViewImports.cshtml]
