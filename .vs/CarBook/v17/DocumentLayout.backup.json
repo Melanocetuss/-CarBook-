@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D8D53C72-C5EB-4948-9222-D55D6E1EFE73}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\alpha\\desktop\\project\\c#\\carbook\\core\\carbook.application\\interfaces\\statisticsinterfaces\\istatisticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8D53C72-C5EB-4948-9222-D55D6E1EFE73}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\interfaces\\statisticsinterfaces\\istatisticsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E711CE5D-36F9-4A31-BFD4-D2C0F08B2BE4}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\alpha\\desktop\\project\\c#\\carbook\\frontends\\carbook.webui\\areas\\admin\\views\\adminstatistics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E711CE5D-36F9-4A31-BFD4-D2C0F08B2BE4}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\views\\adminstatistics\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E711CE5D-36F9-4A31-BFD4-D2C0F08B2BE4}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\alpha\\desktop\\project\\c#\\carbook\\frontends\\carbook.webui\\areas\\admin\\controllers\\adminstatisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E711CE5D-36F9-4A31-BFD4-D2C0F08B2BE4}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\controllers\\adminstatisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EC44422-C391-47FD-BB3F-2127CB8E0A12}|Frontends\\CarBook.Dto\\CarBook.Dto.csproj|c:\\users\\alpha\\desktop\\project\\c#\\carbook\\frontends\\carbook.dto\\statisticsdtos\\resultstatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EC44422-C391-47FD-BB3F-2127CB8E0A12}|Frontends\\CarBook.Dto\\CarBook.Dto.csproj|solutionrelative:frontends\\carbook.dto\\statisticsdtos\\resultstatisticsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DDB1AEC3-B264-4C98-9C6C-420F61B4EF21}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\alpha\\desktop\\project\\c#\\carbook\\presentation\\carbook.webapi\\controllers\\statisticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,28 +38,53 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IStatisticsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Core\\CarBook.Application\\Interfaces\\StatisticsInterfaces\\IStatisticsRepository.cs",
-              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Interfaces\\StatisticsInterfaces\\IStatisticsRepository.cs",
-              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Core\\CarBook.Application\\Interfaces\\StatisticsInterfaces\\IStatisticsRepository.cs",
-              "RelativeToolTip": "Core\\CarBook.Application\\Interfaces\\StatisticsInterfaces\\IStatisticsRepository.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AdminStatisticsController.cs",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminStatisticsController.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminStatisticsController.cs",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminStatisticsController.cs",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminStatisticsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowHMAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T12:40:57.806Z",
+              "WhenOpened": "2025-01-15T15:42:59.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminStatistics\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminStatistics\\Index.cshtml",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminStatistics\\Index.cshtml",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminStatistics\\Index.cshtml",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAMMAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T15:43:08.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "StatisticsController.cs",
               "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\StatisticsController.cs",
               "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\StatisticsController.cs",
               "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\StatisticsController.cs",
               "RelativeToolTip": "Presentation\\CarBook.WebApi\\Controllers\\StatisticsController.cs",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAAAHcAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCoAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T11:02:55.024Z",
+              "WhenOpened": "2025-01-15T18:38:59.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResultStatisticsDto.cs",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.Dto\\StatisticsDtos\\ResultStatisticsDto.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.Dto\\StatisticsDtos\\ResultStatisticsDto.cs",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.Dto\\StatisticsDtos\\ResultStatisticsDto.cs",
+              "RelativeToolTip": "Frontends\\CarBook.Dto\\StatisticsDtos\\ResultStatisticsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T15:51:04.131Z",
               "EditorCaption": ""
             }
           ]
