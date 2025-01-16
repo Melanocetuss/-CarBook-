@@ -189,26 +189,26 @@ namespace CarBook.WebUI.Areas.Admin.Controllers
             }
             #endregion
 
-            #region !CarBrandAndModelByRentPriceDaileyMax
+            #region CarBrandAndModelByRentPriceDaileyMax
             var responseMessageCarBrandAndModelByRentPriceDaileyMax = await client.GetAsync("https://localhost:7127/api/Statistics/GetCarBrandAndModelByRentPriceDaileyMax");
             if (responseMessageCarBrandAndModelByRentPriceDaileyMax.IsSuccessStatusCode)
             {
                 var carBrandAndModelByRentPriceDaileyMaxJsonData = await responseMessageCarBrandAndModelByRentPriceDaileyMax.Content.ReadAsStringAsync();
                 var carBrandAndModelByRentPriceDaileyMaxValues = JsonConvert.DeserializeObject<ResultStatisticsDto>(carBrandAndModelByRentPriceDaileyMaxJsonData);
 
-                ViewBag.carBrandAndModelByRentPriceDaileyMaxCount = carBrandAndModelByRentPriceDaileyMaxValues.CarBrandAndModelByRentPriceDaileyMax;
+                ViewBag.carBrandAndModelByRentPriceDaileyMax = carBrandAndModelByRentPriceDaileyMaxValues.CarBrandAndModelByRentPriceDaileyMax;
                 ViewBag.carBrandAndModelByRentPriceDaileyMaxRandomNumber = random.Next(0, 101);
             }
             #endregion
 
-            #region !CarBrandAndModelByRentPriceDaileyMin
+            #region CarBrandAndModelByRentPriceDaileyMin
             var responseMessageCarBrandAndModelByRentPriceDaileyMin = await client.GetAsync("https://localhost:7127/api/Statistics/GetCarBrandAndModelByRentPriceDaileyMin");
             if (responseMessageCarBrandAndModelByRentPriceDaileyMin.IsSuccessStatusCode)
             {
                 var carBrandAndModelByRentPriceDaileyMinJsonData = await responseMessageCarBrandAndModelByRentPriceDaileyMin.Content.ReadAsStringAsync();
                 var carBrandAndModelByRentPriceDaileyMinValues = JsonConvert.DeserializeObject<ResultStatisticsDto>(carBrandAndModelByRentPriceDaileyMinJsonData);
 
-                ViewBag.carBrandAndModelByRentPriceDaileyMinCount = carBrandAndModelByRentPriceDaileyMinValues.CarBrandAndModelByRentPriceDaileyMin;
+                ViewBag.carBrandAndModelByRentPriceDaileyMin = carBrandAndModelByRentPriceDaileyMinValues.CarBrandAndModelByRentPriceDaileyMin;
                 ViewBag.carBrandAndModelByRentPriceDaileyMinRandomNumber = random.Next(0, 101);
             }
             #endregion
