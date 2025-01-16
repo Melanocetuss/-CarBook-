@@ -117,7 +117,103 @@ namespace CarBook.WebUI.Areas.Admin.Controllers
             }
             #endregion
 
+            #region CarCountByTranmissionAuto
+            var responseMessageCarCountByTranmissionAuto = await client.GetAsync("https://localhost:7127/api/Statistics/GetCarCountByTranmissionAuto");
+            if (responseMessageCarCountByTranmissionAuto.IsSuccessStatusCode)
+            {
+                var carCountByTranmissionAutoJsonData = await responseMessageCarCountByTranmissionAuto.Content.ReadAsStringAsync();
+                var carCountByTranmissionAutoValues = JsonConvert.DeserializeObject<ResultStatisticsDto>(carCountByTranmissionAutoJsonData);
+
+                ViewBag.carCountByTranmissionAuto = carCountByTranmissionAutoValues.CarCountByTranmissionAuto;
+                ViewBag.carCountByTranmissionAutoRandomNumber = random.Next(0, 101);
+            }
+            #endregion
+
+            #region !BrandNameByMaxCar
+            var responseMessageBrandNameByMaxCar = await client.GetAsync("https://localhost:7127/api/Statistics/GetBrandNameByMaxCar");
+            if (responseMessageBrandNameByMaxCar.IsSuccessStatusCode)
+            {
+                var brandNameByMaxCarJsonData = await responseMessageBrandNameByMaxCar.Content.ReadAsStringAsync();
+                var brandNameByMaxCarValues = JsonConvert.DeserializeObject<ResultStatisticsDto>(brandNameByMaxCarJsonData);
+
+                ViewBag.brandNameByMaxCar = brandNameByMaxCarValues.BrandNameByMaxCar;
+                ViewBag.brandNameByMaxCarRandomNumber = random.Next(0, 101);
+            }
+            #endregion
+
+            #region !BlogTitleByMaxBlogComment
+            var responseMessageBlogTitleByMaxBlogComment = await client.GetAsync("https://localhost:7127/api/Statistics/GetBlogTitleByMaxBlogComment");
+            if (responseMessageBlogTitleByMaxBlogComment.IsSuccessStatusCode)
+            {
+                var blogTitleByMaxBlogCommentJsonData = await responseMessageBlogTitleByMaxBlogComment.Content.ReadAsStringAsync();
+                var blogTitleByMaxBlogCommentValues = JsonConvert.DeserializeObject<ResultStatisticsDto>(blogTitleByMaxBlogCommentJsonData);
+
+                ViewBag.blogTitleByMaxBlogComment = blogTitleByMaxBlogCommentValues.BlogTitleByMaxBlogComment;
+                ViewBag.blogTitleByMaxBlogCommentRandomNumber = random.Next(0, 101);
+            }
+            #endregion
+
+            #region CarCountByKmSmallerThan1000
+            var responseMessageCarCountByKmSmallerThan1000 = await client.GetAsync("https://localhost:7127/api/Statistics/GetCarCountByKmSmallerThan1000");
+            if (responseMessageCarCountByKmSmallerThan1000.IsSuccessStatusCode)
+            {
+                var carCountByKmSmallerThan1000JsonData = await responseMessageCarCountByKmSmallerThan1000.Content.ReadAsStringAsync();
+                var carCountByKmSmallerThan1000Values = JsonConvert.DeserializeObject<ResultStatisticsDto>(carCountByKmSmallerThan1000JsonData);
+
+                ViewBag.carCountByKmSmallerThan1000 = carCountByKmSmallerThan1000Values.CarCountByKmSmallerThan1000;
+                ViewBag.carCountByKmSmallerThan1000RandomNumber = random.Next(0, 101);
+            }
+            #endregion
+
+            #region CarCountByFualGasolineOrDiesel
+            var responseMessageCarCountByFualGasolineOrDiesel = await client.GetAsync("https://localhost:7127/api/Statistics/GetCarCountByFualGasolineOrDiesel");
+            if (responseMessageCarCountByFualGasolineOrDiesel.IsSuccessStatusCode)
+            {
+                var carCountByFualGasolineOrDieselJsonData = await responseMessageCarCountByFualGasolineOrDiesel.Content.ReadAsStringAsync();
+                var carCountByFualGasolineOrDieselValues = JsonConvert.DeserializeObject<ResultStatisticsDto>(carCountByFualGasolineOrDieselJsonData);
+
+                ViewBag.carCountByFualGasolineOrDiesel = carCountByFualGasolineOrDieselValues.CarCountByFualGasolineOrDiesel;
+                ViewBag.carCountByFualGasolineOrDieselRandomNumber = random.Next(0, 101);
+            }
+            #endregion
+
+            #region CarCountByFualElectiric
+            var responseMessageCarCountByFualElectiric = await client.GetAsync("https://localhost:7127/api/Statistics/GetCarCountByFualElectiric");
+            if (responseMessageCarCountByFualElectiric.IsSuccessStatusCode)
+            {
+                var carCountByFualElectiricJsonData = await responseMessageCarCountByFualElectiric.Content.ReadAsStringAsync();
+                var carCountByFualElectiricValues = JsonConvert.DeserializeObject<ResultStatisticsDto>(carCountByFualElectiricJsonData);
+
+                ViewBag.carCountByFualElectiricCount = carCountByFualElectiricValues.CarCountByFualElectiric;
+                ViewBag.carCountByFualElectiricRandomNumber = random.Next(0, 101);
+            }
+            #endregion
+
+            #region !CarBrandAndModelByRentPriceDaileyMax
+            var responseMessageCarBrandAndModelByRentPriceDaileyMax = await client.GetAsync("https://localhost:7127/api/Statistics/GetCarBrandAndModelByRentPriceDaileyMax");
+            if (responseMessageCarBrandAndModelByRentPriceDaileyMax.IsSuccessStatusCode)
+            {
+                var carBrandAndModelByRentPriceDaileyMaxJsonData = await responseMessageCarBrandAndModelByRentPriceDaileyMax.Content.ReadAsStringAsync();
+                var carBrandAndModelByRentPriceDaileyMaxValues = JsonConvert.DeserializeObject<ResultStatisticsDto>(carBrandAndModelByRentPriceDaileyMaxJsonData);
+
+                ViewBag.carBrandAndModelByRentPriceDaileyMaxCount = carBrandAndModelByRentPriceDaileyMaxValues.CarBrandAndModelByRentPriceDaileyMax;
+                ViewBag.carBrandAndModelByRentPriceDaileyMaxRandomNumber = random.Next(0, 101);
+            }
+            #endregion
+
+            #region !CarBrandAndModelByRentPriceDaileyMin
+            var responseMessageCarBrandAndModelByRentPriceDaileyMin = await client.GetAsync("https://localhost:7127/api/Statistics/GetCarBrandAndModelByRentPriceDaileyMin");
+            if (responseMessageCarBrandAndModelByRentPriceDaileyMin.IsSuccessStatusCode)
+            {
+                var carBrandAndModelByRentPriceDaileyMinJsonData = await responseMessageCarBrandAndModelByRentPriceDaileyMin.Content.ReadAsStringAsync();
+                var carBrandAndModelByRentPriceDaileyMinValues = JsonConvert.DeserializeObject<ResultStatisticsDto>(carBrandAndModelByRentPriceDaileyMinJsonData);
+
+                ViewBag.carBrandAndModelByRentPriceDaileyMinCount = carBrandAndModelByRentPriceDaileyMinValues.CarBrandAndModelByRentPriceDaileyMin;
+                ViewBag.carBrandAndModelByRentPriceDaileyMinRandomNumber = random.Next(0, 101);
+            }
+            #endregion
+
             return View();
         }
-    }
+    }    
 }
