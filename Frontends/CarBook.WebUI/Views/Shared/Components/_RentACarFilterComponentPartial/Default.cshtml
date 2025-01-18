@@ -4,7 +4,7 @@
             <div class="col-md-12	featured-top">
                 <div class="row no-gutters">
                     <div class="col-md-4 d-flex align-items-center">
-                        <form action="#" class="request-form ftco-animate bg-primary">
+                        <form method="post" asp-action="" class="request-form ftco-animate bg-primary">
                             <h2>Şimdi Aracınızı Kiralayın</h2>
                             <div class="form-group">
                                 <label for="" class="label">Alınıcak Lokasyon</label>
@@ -26,10 +26,10 @@
                             </div>
                             <div class="form-group">
                                 <label for="" class="label">İade Saati</label>
-                                <input type="text" class="form-control" id="time_pick" placeholder="Time">
+                                <input type="text" name="v" class="form-control" id="time_pick" placeholder="Time">
                             </div>
                             <div class="form-group">
-                                <input type="submit" value="Uygun Araçları Listele" class="btn btn-secondary py-3 px-4">
+                                <a href="/RentACarList/Index/" class="btn btn-secondary py-3 px-4">Uygun Araçları Listele</a>
                             </div>
                         </form>
                     </div>

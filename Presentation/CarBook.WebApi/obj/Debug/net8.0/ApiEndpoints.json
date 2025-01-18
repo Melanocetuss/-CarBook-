@@ -1044,6 +1044,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CarBook.WebApi.Controllers.RentACarsController",
+    "Method": "GetRentACarListByLocation",
+    "RelativePath": "api/RentACars",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "query",
+        "Type": "CarBook.Application.Features.Mediator.Queries.RentACarQueries.GetRentACarQuery",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CarBook.WebApi.Controllers.ServicesController",
     "Method": "ServiceList",
     "RelativePath": "api/Services",
