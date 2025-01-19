@@ -2,6 +2,7 @@
 using MediatR;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using static Microsoft.EntityFrameworkCore.DbLoggerCategory;
 
 namespace CarBook.WebApi.Controllers
 {
@@ -15,10 +16,16 @@ namespace CarBook.WebApi.Controllers
             _mediator = mediator;
         }
 
-        [HttpPost]
-        public async Task<ActionResult> GetRentACarListByLocation(GetRentACarQuery query) 
+        [HttpGet]
+        public async Task<ActionResult> GetRentACarListByLocation(int LocationID, bool Available) 
         {
-            var values = await _mediator.Send(query);
+            GetRentACarQuery getRentACarQuery = new GetRentACarQuery()
+            {
+                LocationID = LocationID,
+                Available = Available             
+            };
+
+            var values = await _mediator.Send(getRentACarQuery);
             return Ok(values);
         }
     }

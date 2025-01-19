@@ -1047,14 +1047,19 @@
     "ContainingType": "CarBook.WebApi.Controllers.RentACarsController",
     "Method": "GetRentACarListByLocation",
     "RelativePath": "api/RentACars",
-    "HttpMethod": "POST",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "query",
-        "Type": "CarBook.Application.Features.Mediator.Queries.RentACarQueries.GetRentACarQuery",
-        "IsRequired": true
+        "Name": "LocationID",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "Available",
+        "Type": "System.Boolean",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": []

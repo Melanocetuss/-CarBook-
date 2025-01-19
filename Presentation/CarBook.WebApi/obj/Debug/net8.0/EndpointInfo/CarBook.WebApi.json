@@ -1581,29 +1581,27 @@
       }
     },
     "/api/RentACars": {
-      "post": {
+      "get": {
         "tags": [
           "RentACars"
         ],
-        "requestBody": {
-          "content": {
-            "application/json": {
-              "schema": {
-                "$ref": "#/components/schemas/GetRentACarQuery"
-              }
-            },
-            "text/json": {
-              "schema": {
-                "$ref": "#/components/schemas/GetRentACarQuery"
-              }
-            },
-            "application/*+json": {
-              "schema": {
-                "$ref": "#/components/schemas/GetRentACarQuery"
-              }
+        "parameters": [
+          {
+            "name": "LocationID",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          },
+          {
+            "name": "Available",
+            "in": "query",
+            "schema": {
+              "type": "boolean"
             }
           }
-        },
+        ],
         "responses": {
           "200": {
             "description": "OK"
@@ -2709,19 +2707,6 @@
           "imageUrl": {
             "type": "string",
             "nullable": true
-          }
-        },
-        "additionalProperties": false
-      },
-      "GetRentACarQuery": {
-        "type": "object",
-        "properties": {
-          "locationID": {
-            "type": "integer",
-            "format": "int32"
-          },
-          "available": {
-            "type": "boolean"
           }
         },
         "additionalProperties": false
