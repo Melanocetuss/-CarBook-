@@ -23,8 +23,13 @@ namespace CarBook.Application.Features.Mediator.Handlers.RentACarHandlers
             var values = await _repository.GetByFilterAsync(x=> x.LocationID  == request.LocationID && x.Available == true);
             var result = values.Select(x => new GetRentACarQueryResult
             {
-                CarID = x.CarID
+                CarID = x.CarID,
+                BrandName = x.Car.Brand.Name,
+                Model = x.Car.Model,
+                CoverImageUrl = x.Car.CoverImageUrl,
+                Amount = x.Car.CarPricings.Where(cp=> cp.CarID == x.CarID).Select(cp=> cp.Amount).FirstOrDefault()                              
             }).ToList();
+
             return result;          
         }
     }

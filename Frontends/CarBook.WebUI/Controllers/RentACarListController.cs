@@ -15,17 +15,11 @@ namespace CarBook.WebUI.Controllers
 
         public async Task<IActionResult> Index()
         {
-            var LocationId = TempData["locationId"];
-            var PickUpDate = TempData["pickUpDate"];
-            var DropOffDate = TempData["dropOffDate"];
-            var PickUpTime = TempData["pickUpTime"];
-            var DropOffTime = TempData["dropOffTime"];
+            ViewBag.v1 = "Uygun Araçlar";
+            ViewBag.v2 = "Aracınızı Seçin Ve Hemen Kiralayın";
 
+            var LocationId = TempData["locationId"];
             ViewBag.LocationId = LocationId;
-            ViewBag.PickUpDate = PickUpDate;
-            ViewBag.DropOffDate = DropOffDate;
-            ViewBag.PickUpTime = PickUpTime;
-            ViewBag.DropOffTime = DropOffTime;
 
             var client =  _httpClientFactory.CreateClient();          
             var responseMessage = await client.GetAsync($"https://localhost:7127/api/RentACars?LocationID={LocationId}&Available=true");
