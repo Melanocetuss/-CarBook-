@@ -11,6 +11,41 @@
 @await Component.InvokeAsync("_HeadUILayoutComponentPartial")
 
 <body>
+    <!-- Success Modal -->
+    <div class="modal fade" id="successModal" tabindex="-1" aria-labelledby="successModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="successModalLabel">Rezervasyon Tamamlandı</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    @TempData["SuccessMessage"]
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Tamam</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Error Modal -->
+    <div class="modal fade" id="errorModal" tabindex="-1" aria-labelledby="errorModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="errorModalLabel">Hata Oluştu</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    @TempData["ErrorMessage"]
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Tamam</button>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- Navbar -->
     @await Component.InvokeAsync("_NavbarUILayoutComponentPartial")
@@ -30,7 +65,7 @@
                                 <div class="form-group">
                                     <label for="" class="label">Alınıcak Lokasyon</label>
                                     <select asp-for="LocationID" asp-items="ViewBag.LocationValues" class="custom-select" name="locationId">
-                                        <option value="">
+                                        <option disabled selected>
                                             -- Lokasyon Seçiniz --
                                         </option>
                                     </select>                                    
@@ -93,6 +128,7 @@
                     </div>
                 </div>
             </div>
+        </div>
     </section>
      
     <!-- DefualtLast5CarsWithBrand -->

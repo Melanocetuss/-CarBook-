@@ -1065,6 +1065,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CarBook.WebApi.Controllers.ReservationsController",
+    "Method": "CreateReservation",
+    "RelativePath": "api/Reservations",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "command",
+        "Type": "CarBook.Application.Features.Mediator.Commands.ReservationCommands.CreateReservationCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CarBook.WebApi.Controllers.ServicesController",
     "Method": "ServiceList",
     "RelativePath": "api/Services",
