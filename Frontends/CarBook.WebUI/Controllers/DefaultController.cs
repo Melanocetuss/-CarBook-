@@ -14,7 +14,7 @@ namespace CarBook.WebUI.Controllers
             _httpClientFactory = httpClientFactory;
         }
 
-        [HttpGet]       
+        [HttpGet]
         public async Task<IActionResult> Index()
         {
             ViewBag.LocationValues = await GetLocationSelectListAsync();
@@ -22,14 +22,14 @@ namespace CarBook.WebUI.Controllers
         }
 
         [HttpPost]
-        public IActionResult Index(string locationId,string pickUpDate,string dropOffDate,string pickUpTime,string dropOffTime)
+        public IActionResult Index(string locationId, string pickUpDate, string dropOffDate, string pickUpTime, string dropOffTime)
         {
             TempData["locationId"] = locationId;
             TempData["pickUpDate"] = pickUpDate;
             TempData["dropOffDate"] = dropOffDate;
             TempData["pickUpTime"] = pickUpTime;
             TempData["dropOffTime"] = dropOffTime;
-            return RedirectToAction("Index","RentACarList");
+            return RedirectToAction("Index", "RentACarList");
         }
 
         private async Task<List<SelectListItem>> GetLocationSelectListAsync()

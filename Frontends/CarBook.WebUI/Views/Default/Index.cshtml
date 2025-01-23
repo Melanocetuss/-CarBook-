@@ -12,41 +12,8 @@
 
 <body>
 
-    <!-- Success Modal -->
-    <div class="modal fade" id="successModal" tabindex="-1" aria-labelledby="successModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="successModalLabel">Rezervasyon Tamamlandı</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    @TempData["SuccessMessage"]
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-primary" data-bs-dismiss="modal">Tamam</button>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Error Modal -->
-    <div class="modal fade" id="errorModal" tabindex="-1" aria-labelledby="errorModalLabel" aria-hidden="true">
-        <div class="modal-dialog modal-dialog-centered">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="errorModalLabel">Hata Oluştu</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    @TempData["ErrorMessage"]
-                </div>
-                <div class="modal-footer">
-                    <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Tamam</button>
-                </div>
-            </div>
-        </div>
-    </div>
+    <!-- Success And Error Modal -->
+    @await Component.InvokeAsync("_DefaultSuccessAndErrorModalComponentPartial")
 
     <!-- Navbar -->
     @await Component.InvokeAsync("_NavbarUILayoutComponentPartial")
@@ -69,7 +36,7 @@
                                         <option disabled selected>
                                             -- Lokasyon Seçiniz --
                                         </option>
-                                    </select>                                    
+                                    </select>
                                 </div>
                                 <div class="d-flex">
                                     <div class="form-group mr-2">
@@ -131,7 +98,8 @@
             </div>
         </div>
     </section>
-     
+    <!-- End Rent A Car-->
+
     <!-- DefualtLast5CarsWithBrand -->
     @await Component.InvokeAsync("_DefualtLast5CarsWithBrandComponentPartial")
 
