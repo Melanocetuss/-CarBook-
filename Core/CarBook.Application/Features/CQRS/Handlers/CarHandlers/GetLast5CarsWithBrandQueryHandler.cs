@@ -33,7 +33,11 @@ namespace CarBook.Application.Features.CQRS.Handlers.CarHandlers
                 Seat = x.Seat,
                 Luggage = x.Luggage,
                 Fuel = x.Fuel,
-                BigImageUrl = x.BigImageUrl
+                BigImageUrl = x.BigImageUrl,
+                Amount = x.CarPricings
+                .Where(cp => cp.PricingID == 3)  // Fiyatı filtrele
+                .OrderByDescending(cp => cp.CarPricingID)  // Son eklenen fiyatı al
+                .FirstOrDefault()?.Amount ?? 0
             }).ToList();
 
         }

@@ -416,6 +416,16 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CarBook.WebApi.Controllers.CarPricingsController",
+    "Method": "GetCarPricingWithTimePeriod",
+    "RelativePath": "api/CarPricings/GetCarPricingWithTimePeriod",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CarBook.WebApi.Controllers.CarsController",
     "Method": "CarList",
     "RelativePath": "api/Cars",

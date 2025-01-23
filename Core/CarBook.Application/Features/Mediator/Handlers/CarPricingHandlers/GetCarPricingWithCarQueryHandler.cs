@@ -24,11 +24,12 @@ namespace CarBook.Application.Features.Mediator.Handlers.CarPricingHandlers
             return values.Select(x=> new GetCarPricingWithCarQueryResult 
             {
                 CarPricingID = x.CarPricingID,
+                CarID = x.CarID,
                 BrandName = x.Car.Brand.Name,
                 Model = x.Car.Model,
                 Amount = x.Amount,
                 CoverImageUrl = x.Car.CoverImageUrl
-            } ).ToList();
+            }).ToList();
         }
     }
 }

@@ -31,7 +31,8 @@ namespace CarBook.Application.Features.Mediator.Handlers.ReservationHandlers
                 CarID = request.CarID,
                 Age = request.Age,
                 DriverLicanseYear = request.DriverLicanseYear,
-                Description = request.Description 
+                Description = request.Description,
+                Status = "Rezervasyon Alındı"                
             });
         }
     }

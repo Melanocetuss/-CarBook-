@@ -11,6 +11,7 @@
 @await Component.InvokeAsync("_HeadUILayoutComponentPartial")
 
 <body>
+
     <!-- Success Modal -->
     <div class="modal fade" id="successModal" tabindex="-1" aria-labelledby="successModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered">
@@ -73,20 +74,20 @@
                                 <div class="d-flex">
                                     <div class="form-group mr-2">
                                         <label for="" class="label">Alınmak İstenen Tarih</label>
-                                        <input type="text" class="form-control" id="book_pick_date" placeholder="Date" name="pickUpDate">
+                                        <input type="text" class="form-control" id="book_pick_date" placeholder="Tarih Seçiniz" name="pickUpDate">
                                     </div>
                                     <div class="form-group ml-2">
                                         <label for="" class="label">İade Tarihi</label>
-                                        <input type="text" class="form-control" id="book_off_date" placeholder="Date" name="dropOffDate">
+                                        <input type="text" class="form-control" id="book_off_date" placeholder="Tarih Seçiniz" name="dropOffDate">
                                     </div>
                                 </div>
                                 <div class="form-group">
                                     <label for="" class="label">Alış Saati</label>
-                                    <input type="text" class="form-control" id="time_pick" placeholder="Time" name="pickUpTime">
+                                    <input type="text" class="form-control" id="time_pick" placeholder="Saat Seçiniz" name="pickUpTime">
                                 </div>
                                 <div class="form-group">
                                     <label for="" class="label">İade Saati</label>
-                                    <input type="text" class="form-control" id="time_off" placeholder="Time" name="dropOffTime">
+                                    <input type="text" class="form-control" id="time_off" placeholder="Saat Seçiniz" name="dropOffTime">
                                 </div>
                                 <div class="form-group">
                                     <button class="btn btn-secondary py-3 px-4">Uygun Araçları Listele</button>
@@ -122,7 +123,7 @@
                                         </div>
                                     </div>
                                 </div>
-                                <p><a href="#" class="btn btn-primary py-3 px-4">Reserve Your Perfect Car</a></p>
+                                <p><a href="/CarPricing/Index/" class="btn btn-primary py-3 px-4">Araç Fiyatlarımızı Görün</a></p>
                             </div>
                         </div>
                     </div>

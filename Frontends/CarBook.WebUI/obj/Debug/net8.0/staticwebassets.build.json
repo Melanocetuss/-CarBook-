@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/sol+dbHowmbAOVDW0FlDBFgoRIKIe1md/+OGzmKKUU=",
+  "Hash": "rhBd9Ks8oHnvvCREuJ6m0jPqKJqcZkag5Q+tvRZ7M8U=",
   "Source": "CarBook.WebUI",
   "BasePath": "_content/CarBook.WebUI",
   "Mode": "Default",
@@ -77105,7 +77105,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 15 Jan 2024 08:33:44 GMT"
+          "Value": "Wed, 22 Jan 2025 23:12:34 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -77142,7 +77142,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Mon, 15 Jan 2024 08:33:44 GMT"
+          "Value": "Wed, 22 Jan 2025 23:12:34 GMT"
         },
         {
           "Name": "Cache-Control",

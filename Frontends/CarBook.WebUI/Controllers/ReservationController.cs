@@ -15,16 +15,19 @@ namespace CarBook.WebUI.Controllers
             _httpClientFactory = httpClientFactory;
         }
 
+        [Route("Reservation/Index/{carID?}")]
         [HttpGet]
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(int carID)
         {
             ViewBag.v1 = "Rezervasyon";
             ViewBag.v2 = "Rezervasyonunuzu Tamamlayın.";
+            ViewBag.CarID = carID;
 
             ViewBag.LocationValues = await GetLocationSelectListAsync();         
             return View();
         }
 
+        [Route("Reservation/Index/{carID?}")]
         [HttpPost]
         public async Task<IActionResult> Index(CreateReservationDto createReservationDto)
         {
@@ -40,7 +43,7 @@ namespace CarBook.WebUI.Controllers
             }
 
             TempData["ErrorMessage"] = "Rezervasyon oluşturulurken bir hata oluştu. Lütfen tekrar deneyin.";
-            return View();
+            return RedirectToAction("Index", "Default");
         }
         private async Task<List<SelectListItem>> GetLocationSelectListAsync()
         {

@@ -8584,13 +8584,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\carbook-master\pricing.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Dqrbr5DZPLeQr0CRxk\u002BmKG5zNaeb1fkznWwZ8h5GIwE="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"20022"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Dqrbr5DZPLeQr0CRxk\u002BmKG5zNaeb1fkznWwZ8h5GIwE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 15 Jan 2024 08:33:44 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"20022"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Dqrbr5DZPLeQr0CRxk\u002BmKG5zNaeb1fkznWwZ8h5GIwE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 23:12:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarBook.WebUI/carbook-master/pricing.mbx99nqtla.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\carbook-master\pricing.html'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mbx99nqtla"},{"Name":"integrity","Value":"sha256-Dqrbr5DZPLeQr0CRxk\u002BmKG5zNaeb1fkznWwZ8h5GIwE="},{"Name":"label","Value":"_content/CarBook.WebUI/carbook-master/pricing.html"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20022"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Dqrbr5DZPLeQr0CRxk\u002BmKG5zNaeb1fkznWwZ8h5GIwE=\u0022"},{"Name":"Last-Modified","Value":"Mon, 15 Jan 2024 08:33:44 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"20022"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Dqrbr5DZPLeQr0CRxk\u002BmKG5zNaeb1fkznWwZ8h5GIwE=\u0022"},{"Name":"Last-Modified","Value":"Wed, 22 Jan 2025 23:12:34 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarBook.WebUI/carbook-master/readme.7dvirsxg20.txt">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\carbook-master\readme.txt'))</AssetFile>
