@@ -37,12 +37,14 @@ namespace CarBook.Persistence.Repositories.CarPricingRepositories
                         group carPricing by new
                         {
                             BrandAndModel = brands.Name + " " + cars.Model,
-                            CoverImageUrl = cars.CoverImageUrl
+                            CoverImageUrl = cars.CoverImageUrl,
+                            CarID = cars.CarID
                         } into grouped
                         select new GetCarPricingWithTimePeriodQueryResult
                         {
                             BrandAndModel = grouped.Key.BrandAndModel,
                             CoverImageUrl= grouped.Key.CoverImageUrl,
+                            CarID = grouped.Key.CarID,
                             DaileyAmount = grouped.Where(x => x.PricingID == 3).Sum(x => x.Amount),
                             WeeklyAmount = grouped.Where(x => x.PricingID == 4).Sum(x => x.Amount),
                             MonthlyAmount = grouped.Where(x => x.PricingID == 5).Sum(x => x.Amount)

@@ -1,66 +1,86 @@
-﻿<footer class="ftco-footer ftco-bg-dark ftco-section">
-    <div class="container">
-        <div class="row mb-5">
-            <div class="col-md">
-                <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2"><a href="#" class="logo">Car<span>book</span></a></h2>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
-                        <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
-                        <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
-                        <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-md">
-                <div class="ftco-footer-widget mb-4 ml-md-5">
-                    <h2 class="ftco-heading-2">Hızlı Linkler</h2>
-                    <ul class="list-unstyled">
-                        <li><a href="#" class="py-2 d-block">Hakkımızda</a></li>
-                        <li><a href="#" class="py-2 d-block">Hizmetlerimiz</a></li>
-                        <li><a href="#" class="py-2 d-block">Şart Ve Koşular</a></li>
-                        <li><a href="#" class="py-2 d-block">En İyi Fiyat Garantisi</a></li>
-                        <li><a href="#" class="py-2 d-block">Çerez Politikası</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-md">
-                <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">Müşteri Desteği</h2>
-                    <ul class="list-unstyled">
-                        <li><a href="#" class="py-2 d-block">Sıkça Sorulanlar</a></li>
-                        <li><a href="#" class="py-2 d-block">Ödeme Yöntemleri</a></li>
-                        <li><a href="#" class="py-2 d-block">Kiralama</a></li>
-                        <li><a href="#" class="py-2 d-block">Nasıl Çalışır</a></li>
-                        <li><a href="#" class="py-2 d-block">Bize Ulaşın</a></li>
-                    </ul>
-                </div>
-            </div>
-            <div class="col-md">
-                <div class="ftco-footer-widget mb-4">
-                    <h2 class="ftco-heading-2">Bir Sorunuz Mu Var?</h2>
-                    <div class="block-23 mb-3">
-                        <ul>
-                            <li><span class="icon icon-map-marker"></span><span class="text">203 Fake St. Mountain View, San Francisco, California, USA</span></li>
-                            <li><a href="#"><span class="icon icon-phone"></span><span class="text">+2 392 3929 210</span></a></li>
-                            <li><a href="#"><span class="icon icon-envelope"></span><span class="text">info@yourdomain.com</span></a></li>
+﻿@model List<ResultFooterAddressDto>
+
+@foreach (var item in Model)
+{
+    <footer class="ftco-footer ftco-bg-dark ftco-section">
+        <div class="container">
+            <div class="row mb-5">
+                <div class="col-md">
+                    <div class="ftco-footer-widget mb-4">
+                        <h2 class="ftco-heading-2"><a href="/Default/Index/" class="logo">Car<span>book</span></a></h2>
+                        <p>@item.Description</p>
+                        <ul class="ftco-footer-social list-unstyled float-md-left float-lft mt-5">
+                            <li class="ftco-animate"><a href="#"><span class="icon-twitter"></span></a></li>
+                            <li class="ftco-animate"><a href="#"><span class="icon-facebook"></span></a></li>
+                            <li class="ftco-animate"><a href="#"><span class="icon-instagram"></span></a></li>
                         </ul>
                     </div>
                 </div>
+                <div class="col-md">
+                    <div class="ftco-footer-widget mb-4 ml-md-5">
+                        <h2 class="ftco-heading-2">Hızlı Linkler</h2>
+                        <ul class="list-unstyled">
+                            <li><a href="/About/Index/" class="py-2 d-block">Hakkımızda</a></li>
+                            <li><a href="/Service/Index/" class="py-2 d-block">Hizmetlerimiz</a></li>
+                            <li><a href="#" class="py-2 d-block" data-bs-toggle="modal" data-bs-target="#termsModal">Şart Ve Koşular</a></li>
+                            <li><a href="/CarPricing/Index/" class="py-2 d-block">En İyi Fiyat Garantisi</a></li>
+                            <li><a href="#" class="py-2 d-block" data-bs-toggle="modal" data-bs-target="#termsModal">Çerez Politikası</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="ftco-footer-widget mb-4">
+                        <h2 class="ftco-heading-2">Müşteri Desteği</h2>
+                        <ul class="list-unstyled">
+                            <li><a href="#" class="py-2 d-block">Sıkça Sorulanlar</a></li>
+                            <li><a href="#" class="py-2 d-block">Ödeme Yöntemleri</a></li>
+                            <li><a href="/Car/Index/" class="py-2 d-block">Kiralama</a></li>
+                            <li><a href="#" class="py-2 d-block" data-bs-toggle="modal" data-bs-target="#termsModal">Nasıl Çalışır</a></li>
+                            <li><a href="/Contact/Index/" class="py-2 d-block">Bize Ulaşın</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-md">
+                    <div class="ftco-footer-widget mb-4">
+                        <h2 class="ftco-heading-2">Bir Sorunuz Mu Var?</h2>
+                        <div class="block-23 mb-3">
+                            <ul>
+                                <li><span class="icon icon-map-marker"></span><span class="text">@item.Address</span></li>
+                                <li><span class="icon icon-phone"></span><span class="text">@item.Phone</span></li>
+                                <li><span class="icon icon-envelope"></span><span class="text">@item.Email</span></li>
+                            </ul>
+                        </div>
+                    </div>            
+                </div>       
+            </div>
+            <div class="row">
+                <div class="col-md-12 text-center">
+
+                    <p>
+                        Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tüm Hakları Saklıdır | Bu Web Sayfası <a href="https://colorlib.com" target="_blank">Melanocetus</a> Tarafından Yapıldı.                   
+                    </p>
+                </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-md-12 text-center">
+    </footer>
 
-                <p>
-                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                    Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tüm Hakları Saklıdır | This template is made with <i class="icon-heart color-danger" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-                    <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                </p>
+    <!-- Şartlar ve Koşular Modal -->
+    <div class="modal fade" id="termsModal" tabindex="-1" aria-labelledby="termsModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="termsModalLabel">Şartlar ve Koşular</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Kapat"></button>
+                </div>
+                <div class="modal-body">
+                    Buraya şartlar ve koşullar metnini yazabilirsiniz.
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Kapat</button>
+                </div>
             </div>
         </div>
     </div>
-</footer>
-
+}
 <!-- Loader -->
 <div id="ftco-loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" /><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#F96D00" /></svg></div>

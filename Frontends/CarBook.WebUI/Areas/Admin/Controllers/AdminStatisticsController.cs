@@ -129,7 +129,7 @@ namespace CarBook.WebUI.Areas.Admin.Controllers
             }
             #endregion
 
-            #region !BrandNameByMaxCar
+            #region BrandNameByMaxCar
             var responseMessageBrandNameByMaxCar = await client.GetAsync("https://localhost:7127/api/Statistics/GetBrandNameByMaxCar");
             if (responseMessageBrandNameByMaxCar.IsSuccessStatusCode)
             {
@@ -141,7 +141,7 @@ namespace CarBook.WebUI.Areas.Admin.Controllers
             }
             #endregion
 
-            #region !BlogTitleByMaxBlogComment
+            #region BlogTitleByMaxBlogComment
             var responseMessageBlogTitleByMaxBlogComment = await client.GetAsync("https://localhost:7127/api/Statistics/GetBlogTitleByMaxBlogComment");
             if (responseMessageBlogTitleByMaxBlogComment.IsSuccessStatusCode)
             {

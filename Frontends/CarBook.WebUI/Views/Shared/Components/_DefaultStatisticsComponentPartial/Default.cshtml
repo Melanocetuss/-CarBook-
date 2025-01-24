@@ -5,32 +5,32 @@
             <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate">
                 <div class="block-18">
                     <div class="text text-border d-flex align-items-center">
-                        <strong class="number" data-number="60">0</strong>
-                        <span>Year <br>Experienced</span>
+                        <strong class="number" data-number="@ViewBag.carCount">0</strong>
+                        <span>Toplam <br>Araç</span>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate">
                 <div class="block-18">
                     <div class="text text-border d-flex align-items-center">
-                        <strong class="number" data-number="1090">0</strong>
-                        <span>Total <br>Cars</span>
+                        <strong class="number" data-number="@String.Format("{0:F0}", ViewBag.avgRentPriceForDaileyCount)">312</strong>
+                        <span>Ortalama Günlük <br>Araç Fiyatı</span>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate">
                 <div class="block-18">
                     <div class="text text-border d-flex align-items-center">
-                        <strong class="number" data-number="2590">0</strong>
-                        <span>Happy <br>Customers</span>
+                        <strong class="number" data-number="@String.Format("{0:F0}", ViewBag.avgRentPriceForWeeklyCount)">1400</strong>
+                        <span>Ortalama Haftalık <br>Araç Fiyatı</span>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate">
                 <div class="block-18">
                     <div class="text d-flex align-items-center">
-                        <strong class="number" data-number="67">0</strong>
-                        <span>Total <br>Branches</span>
+                        <strong class="number" data-number="@ViewBag.blogCount">0</strong>
+                        <span>Toplam <br>Blog Sayısı</span>
                     </div>
                 </div>
             </div>
