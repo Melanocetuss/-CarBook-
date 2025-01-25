@@ -16,7 +16,10 @@
         @await Component.InvokeAsync("_CommentListByBlogComponentPartail", new { id = ViewBag.blogid })
         
         <!-- Add Comments -->
-        @await Component.InvokeAsync("_AddCommentComponentPartial")
-           
+        @await Html.PartialAsync("~/Views/Blog/AddComment.cshtml", new { id = ViewBag.blogid })
+          
     </div>
 </div>
+
+<!-- Success And Error Modal -->
+@await Component.InvokeAsync("_DefaultSuccessAndErrorModalComponentPartial")

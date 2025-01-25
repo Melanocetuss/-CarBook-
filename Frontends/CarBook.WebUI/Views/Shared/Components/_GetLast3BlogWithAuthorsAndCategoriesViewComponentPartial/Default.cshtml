@@ -17,7 +17,7 @@
                         </a>
                         <div class="text pt-4">
                             <div class="meta mb-3">
-                                <div><a href="#">@item.CreatedDate.ToShortDateString()</a></div>
+                                <div><a href="#">@(((DateTime)item.CreatedDate).ToString("dd-MMMM-yyyy"))</a></div>
                                 <div><a href="#">@item.AuthorName</a></div>
                             </div>
                             <h3 class="heading mt-2"><a href="#">@item.Title</a></h3>

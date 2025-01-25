@@ -605,22 +605,6 @@
   },
   {
     "ContainingType": "CarBook.WebApi.Controllers.CommentsController",
-    "Method": "CreateComment",
-    "RelativePath": "api/Comments",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "comment",
-        "Type": "CarBook.Domain.Entities.Comment",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "CarBook.WebApi.Controllers.CommentsController",
     "Method": "RemoveComment",
     "RelativePath": "api/Comments",
     "HttpMethod": "DELETE",
@@ -646,6 +630,22 @@
       {
         "Name": "comment",
         "Type": "CarBook.Domain.Entities.Comment",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.CommentsController",
+    "Method": "CreateComment",
+    "RelativePath": "api/Comments",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createCommentCommand",
+        "Type": "CarBook.Application.Features.Mediator.Commands.CommentCommands.CreateCommentCommand",
         "IsRequired": true
       }
     ],

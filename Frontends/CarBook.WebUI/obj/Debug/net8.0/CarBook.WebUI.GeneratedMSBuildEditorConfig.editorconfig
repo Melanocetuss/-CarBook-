@@ -232,6 +232,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5MYXlvdXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Views/Blog/AddComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xBZGRDb21tZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Views/Blog/BlogDetails.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -278,10 +282,6 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Views/Shared/Components/_AboutUsComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Fib3V0VXNDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
-[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Views/Shared/Components/_AddCommentComponentPartial/Default.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkZENvbW1lbnRDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Views/Shared/Components/_BecomeADriverComponentPartial/Default.cshtml]
