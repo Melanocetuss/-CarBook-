@@ -124,6 +124,5 @@ namespace CarBook.WebUI.Controllers
 
             return new List<SelectListItem>();
         }
-
     }
 }

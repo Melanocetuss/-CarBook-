@@ -616,6 +616,101 @@
         }
       }
     },
+    "/api/CarFeatures": {
+      "get": {
+        "tags": [
+          "CarFeatures"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      },
+      "post": {
+        "tags": [
+          "CarFeatures"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateCarFeatureByCarCommand"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateCarFeatureByCarCommand"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateCarFeatureByCarCommand"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/CarFeatures/CarFeatureAvailableChangeToFalse": {
+      "get": {
+        "tags": [
+          "CarFeatures"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/CarFeatures/CarFeatureAvailableChangeToTrue": {
+      "get": {
+        "tags": [
+          "CarFeatures"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/CarPricings/GetCarPricingWithCar": {
       "get": {
         "tags": [
@@ -2616,6 +2711,20 @@
           "bigImageUrl": {
             "type": "string",
             "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "CreateCarFeatureByCarCommand": {
+        "type": "object",
+        "properties": {
+          "carID": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "featureID": {
+            "type": "integer",
+            "format": "int32"
           }
         },
         "additionalProperties": false

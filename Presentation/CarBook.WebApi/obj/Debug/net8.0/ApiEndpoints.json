@@ -406,6 +406,70 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CarBook.WebApi.Controllers.CarFeaturesController",
+    "Method": "CarFeatureByCarId",
+    "RelativePath": "api/CarFeatures",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.CarFeaturesController",
+    "Method": "CreateCarFeatureByCar",
+    "RelativePath": "api/CarFeatures",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createCarFeatureByCarCommand",
+        "Type": "CarBook.Application.Features.Mediator.Commands.CarFeatureCommands.CreateCarFeatureByCarCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.CarFeaturesController",
+    "Method": "CarFeatureAvailableChangeToFalse",
+    "RelativePath": "api/CarFeatures/CarFeatureAvailableChangeToFalse",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.CarFeaturesController",
+    "Method": "CarFeatureAvailableChangeToTrue",
+    "RelativePath": "api/CarFeatures/CarFeatureAvailableChangeToTrue",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CarBook.WebApi.Controllers.CarPricingsController",
     "Method": "GetCarPricingWithCarList",
     "RelativePath": "api/CarPricings/GetCarPricingWithCar",
