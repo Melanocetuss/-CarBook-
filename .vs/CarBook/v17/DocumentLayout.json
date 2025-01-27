@@ -7,9 +7,6 @@
       "RelativeMoniker": "D:0:0:{E711CE5D-36F9-4A31-BFD4-D2C0F08B2BE4}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\views\\admindashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alpha\\Desktop\\Files Folder\\CarBookFrontends\\Admin\\vertical\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{E711CE5D-36F9-4A31-BFD4-D2C0F08B2BE4}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\alpha\\desktop\\project\\c#\\carbook\\frontends\\carbook.webui\\areas\\admin\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E711CE5D-36F9-4A31-BFD4-D2C0F08B2BE4}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\controllers\\admindashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -34,15 +31,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Files Folder\\CarBookFrontends\\Admin\\vertical\\index.html",
-              "RelativeDocumentMoniker": "..\\..\\..\\Files Folder\\CarBookFrontends\\Admin\\vertical\\index.html",
-              "ToolTip": "C:\\Users\\alpha\\Desktop\\Files Folder\\CarBookFrontends\\Admin\\vertical\\index.html",
-              "RelativeToolTip": "..\\..\\..\\Files Folder\\CarBookFrontends\\Admin\\vertical\\index.html",
-              "ViewState": "AgIAAH8DAAAAAAAAAAAAAJsDAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-01-27T17:53:15.292Z",
-              "EditorCaption": ""
+              "Title": "AdminDashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-27T17:51:29.569Z"
             },
             {
               "$type": "Document",
@@ -52,22 +48,9 @@
               "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
               "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
               "RelativeToolTip": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminDashboard\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAH0AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-27T17:51:33.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AdminDashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
-              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
-              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
-              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminDashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-27T17:51:29.569Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,106 @@
+﻿<div class="row">
+    
+    <!-- Car Statistics -->
+    <div class="col-md-6 col-xl-3">
+        <div class="card bg-primary border-primary">
+            <div class="card-body">
+                <div class="mb-4">
+                    <span class="badge badge-soft-light float-right">Aktif Araçlar</span>
+                    <h5 class="card-title mb-0 text-white">Toplam Araç Sayısı</h5>
+                </div>
+                <div class="row d-flex align-items-center mb-4">
+                    <div class="col-8">
+                        <h2 class="d-flex align-items-center mb-0 text-white">
+                            # @ViewBag.carCount
+                        </h2>
+                    </div>
+                    <div class="col-4 text-right">
+                        <span class="text-white-50">@ViewBag.CarRandomNumber % <i class="mdi mdi-arrow-up"></i></span>
+                    </div>
+                </div>
+
+                <div class="progress badge-soft-light shadow-sm" style="height: 5px;">
+                    <div class="progress-bar bg-light" role="progressbar" style="width: @ViewBag.CarRandomNumber%;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Location Statistics -->
+    <div class="col-md-6 col-xl-3">
+        <div class="card bg-success border-success">
+            <div class="card-body">
+                <div class="mb-4">
+                    <span class="badge badge-soft-light float-right">Mevcut Lokasyonlar</span>
+                    <h5 class="card-title mb-0 text-white">Kiralama Lokasyon Sayısı</h5>
+                </div>
+                <div class="row d-flex align-items-center mb-4">
+                    <div class="col-8">
+                        <h2 class="d-flex align-items-center text-white mb-0">
+                            # @ViewBag.locationCount
+                        </h2>
+                    </div>
+                    <div class="col-4 text-right">
+                        <span class="text-white-50">@ViewBag.locationRandomNumber % <i class="mdi mdi-arrow-down"></i></span>
+                    </div>
+                </div>
+
+                <div class="progress badge-soft-light shadow-sm" style="height: 7px;">
+                    <div class="progress-bar bg-light" role="progressbar" style="width: @ViewBag.locationRandomNumber%;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Brand Statistics -->
+    <div class="col-md-6 col-xl-3">
+        <div class="card bg-warning border-warning">
+            <div class="card-body">
+                <div class="mb-4">
+                    <span class="badge badge-soft-light float-right">Aktif Markalarımız</span>
+                    <h5 class="card-title mb-0 text-white">Toplam Marka Sayısı</h5>
+                </div>
+                <div class="row d-flex align-items-center mb-4">
+                    <div class="col-8">
+                        <h2 class="d-flex align-items-center text-white mb-0">
+                            # @ViewBag.brandCount
+                        </h2>
+                    </div>
+                    <div class="col-4 text-right">
+                        <span class="text-white-50">@ViewBag.brandRandomNumber % <i class="mdi mdi-arrow-up"></i></span>
+                    </div>
+                </div>
+
+                <div class="progress badge-soft-light shadow-sm" style="height: 7px;">
+                    <div class="progress-bar bg-light" role="progressbar" style="width: @ViewBag.brandRandomNumber%;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    <!-- Avg Rent Price For Dailey Statistics -->
+    <div class="col-md-6 col-xl-3">
+        <div class="card bg-info border-info">
+            <div class="card-body">
+                <div class="mb-4">
+                    <span class="badge badge-soft-light float-right">Günlük Fiyat</span>
+                    <h5 class="card-title mb-0 text-white">Ortalama Araç Fiyatı</h5>
+                </div>
+                <div class="row d-flex align-items-center mb-4">
+                    <div class="col-8">
+                        <h2 class="d-flex align-items-center text-white mb-0">
+                            @String.Format("{0:F2}", ViewBag.avgRentPriceForDaileyCount) ₺
+                        </h2>
+                    </div>
+                    <div class="col-4 text-right">
+                        <span class="text-white-50">@ViewBag.avgRentPriceForDaileyCountRandomNumber % <i class="mdi mdi-arrow-down"></i></span>
+                    </div>
+                </div>
+
+                <div class="progress badge-soft-light shadow-sm" style="height: 7px;">
+                    <div class="progress-bar bg-light" role="progressbar" style="width: @ViewBag.avgRentPriceForDaileyCountRandomNumber%;"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

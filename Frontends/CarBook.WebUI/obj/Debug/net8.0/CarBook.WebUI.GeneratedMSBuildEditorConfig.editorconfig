@@ -296,6 +296,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0Fib3V0VXNDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Views/Shared/Components/_AdminDashboardBlogListComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluRGFzaGJvYXJkQmxvZ0xpc3RDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Views/Shared/Components/_AdminDashboardCarPricingListComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluRGFzaGJvYXJkQ2FyUHJpY2luZ0xpc3RDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Views/Shared/Components/_AdminDashboardStatisticsComponentPartial/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0FkbWluRGFzaGJvYXJkU3RhdGlzdGljc0NvbXBvbmVudFBhcnRpYWxcRGVmYXVsdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/alpha/Desktop/Project/C\#/CarBook/Frontends/CarBook.WebUI/Views/Shared/Components/_BecomeADriverComponentPartial/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcX0JlY29tZUFEcml2ZXJDb21wb25lbnRQYXJ0aWFsXERlZmF1bHQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
