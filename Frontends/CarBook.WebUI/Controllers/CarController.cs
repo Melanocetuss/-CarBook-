@@ -28,5 +28,10 @@ namespace CarBook.WebUI.Controllers
             }
             return View();
         }
+
+        public async Task<IActionResult> CarDetails()
+        {
+            return View();
+        }
     }
 }

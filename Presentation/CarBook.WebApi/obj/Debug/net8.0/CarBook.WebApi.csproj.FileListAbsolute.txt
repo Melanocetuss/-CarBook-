@@ -179,3 +179,4 @@ C:\Users\alpha\Desktop\Project\C#\CarBook\Presentation\CarBook.WebApi\obj\Debug\
 C:\Users\alpha\Desktop\Project\C#\CarBook\Presentation\CarBook.WebApi\bin\Debug\net8.0\MediatR.dll
 C:\Users\alpha\Desktop\Project\C#\CarBook\Presentation\CarBook.WebApi\bin\Debug\net8.0\MediatR.Contracts.dll
 C:\Users\alpha\Desktop\Project\C#\CarBook\Presentation\CarBook.WebApi\bin\Debug\net8.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\alpha\Desktop\Project\C#\CarBook\Presentation\CarBook.WebApi\bin\Debug\net8.0\Newtonsoft.Json.dll

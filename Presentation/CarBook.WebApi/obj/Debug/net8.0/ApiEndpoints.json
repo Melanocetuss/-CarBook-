@@ -74,6 +74,26 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "CarBook.WebApi.Controllers.AdminDashboardChartsController",
+    "Method": "CarCountByBrandNameQuery",
+    "RelativePath": "api/AdminDashboardCharts/CarCountByBrandNameQuery",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "CarBook.WebApi.Controllers.AdminDashboardChartsController",
+    "Method": "CarCountByLocationNameQuery",
+    "RelativePath": "api/AdminDashboardCharts/CarCountByLocationNameQuery",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "CarBook.WebApi.Controllers.AuthorsController",
     "Method": "AuthorList",
     "RelativePath": "api/Authors",

@@ -24,6 +24,8 @@ using CarBook.Application.Interfaces.RentACarInterfaces;
 using CarBook.Persistence.Repositories.RentACarRepositories;
 using CarBook.Application.Interfaces.CarFeatureInterfaces;
 using CarBook.Persistence.Repositories.CarFeatureRepositories;
+using CarBook.Application.Interfaces.AdminDashboardChartInterfaces;
+using CarBook.Persistence.Repositories.AdminDashboardChartRepositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -38,6 +40,7 @@ builder.Services.AddScoped(typeof(IGenericRepository<>),typeof(CommentRepository
 builder.Services.AddScoped(typeof(IStatisticsRepository),typeof(StatisticsRepository));
 builder.Services.AddScoped(typeof(IRentACarRepository),typeof(RentACarRepository));
 builder.Services.AddScoped(typeof(ICarFeatureRepository),typeof(CarFeatureRepository));
+builder.Services.AddScoped(typeof(IAdminDashboardChartRepository),typeof(AdminDashboardChartRepository));
 
 builder.Services.AddScoped<GetAboutQueryHandler>();
 builder.Services.AddScoped<GetAboutByIdQueryHandler>();

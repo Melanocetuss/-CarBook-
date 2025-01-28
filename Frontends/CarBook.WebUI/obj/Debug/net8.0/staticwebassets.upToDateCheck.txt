@@ -699,6 +699,7 @@ wwwroot\carbook-master\scss\bootstrap\utilities\_text.scss
 wwwroot\carbook-master\scss\bootstrap\utilities\_visibility.scss
 wwwroot\carbook-master\scss\bootstrap\vendor\_rfs.scss
 wwwroot\carbook-master\scss\style.scss
+wwwroot\chart.js
 wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\js\site.js

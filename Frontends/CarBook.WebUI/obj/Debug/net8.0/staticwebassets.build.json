@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xZ1Hbibzm1L8SGfbC9OyQO7JC4r7rgi1ATVd0RhUAQo=",
+  "Hash": "Tdk+kT2XSpqZSPNxMkq0KwA8MWk+PIB5XSOIn+xYfhI=",
   "Source": "CarBook.WebUI",
   "BasePath": "_content/CarBook.WebUI",
   "Mode": "Default",
@@ -14778,6 +14778,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\carbook-master\\scss\\style.scss"
+    },
+    {
+      "Identity": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\chart.js",
+      "SourceId": "CarBook.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\",
+      "BasePath": "_content/CarBook.WebUI",
+      "RelativePath": "chart#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "be4xkwdksv",
+      "Integrity": "g3gFGNlRlksDA7txanQSImyc4OyhmrO3cbeO7as0CII=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\chart.js"
     },
     {
       "Identity": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\css\\site.css",
@@ -73684,6 +73705,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-CM4Bj25IrDf3czFNmeO82AdlqaRKdg31QMfjvOBih0Y="
+        }
+      ]
+    },
+    {
+      "Route": "chart.be4xkwdksv.js",
+      "AssetFile": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\chart.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248724"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g3gFGNlRlksDA7txanQSImyc4OyhmrO3cbeO7as0CII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 15:10:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "be4xkwdksv"
+        },
+        {
+          "Name": "label",
+          "Value": "chart.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-g3gFGNlRlksDA7txanQSImyc4OyhmrO3cbeO7as0CII="
+        }
+      ]
+    },
+    {
+      "Route": "chart.js",
+      "AssetFile": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\wwwroot\\chart.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "248724"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"g3gFGNlRlksDA7txanQSImyc4OyhmrO3cbeO7as0CII=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 15:10:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-g3gFGNlRlksDA7txanQSImyc4OyhmrO3cbeO7as0CII="
         }
       ]
     },

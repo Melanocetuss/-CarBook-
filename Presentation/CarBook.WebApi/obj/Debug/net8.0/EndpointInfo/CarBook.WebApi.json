@@ -118,6 +118,30 @@
         }
       }
     },
+    "/api/AdminDashboardCharts/CarCountByBrandNameQuery": {
+      "get": {
+        "tags": [
+          "AdminDashboardCharts"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/AdminDashboardCharts/CarCountByLocationNameQuery": {
+      "get": {
+        "tags": [
+          "AdminDashboardCharts"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Authors": {
       "get": {
         "tags": [

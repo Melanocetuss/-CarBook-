@@ -5,122 +5,19 @@
 }
 
     <div class="page-content">
-        <div class="container-fluid">
-           
-            <div class="row">
-                <div class="col-12">
-                    <div class="page-title-box d-flex align-items-center justify-content-between">
-                        <h4 class="mb-0 font-size-18">Dashboard</h4>                     
-                    </div>
-                </div>
-            </div>
+        <div class="container-fluid">           
 
             @await Component.InvokeAsync("_AdminDashboardStatisticsComponentPartial")
             
             
             <div class="row">
 
-                <div class="col-lg-4">
-                    <div class="card">
-                        <div class="card-body">
-                            <div class="dropdown float-right position-relative">
-                                <a href="#" class="dropdown-toggle h4 text-muted" data-toggle="dropdown"
-                                   aria-expanded="false">
-                                    <i class="mdi mdi-dots-vertical"></i>
-                                </a>
-                                <ul class="dropdown-menu dropdown-menu-right">
-                                    <li><a href="#" class="dropdown-item">Action</a></li>
-                                    <li><a href="#" class="dropdown-item">Another action</a></li>
-                                    <li><a href="#" class="dropdown-item">Something else here</a></li>
-                                    <li class="dropdown-divider"></li>
-                                    <li><a href="#" class="dropdown-item">Separated link</a></li>
-                                </ul>
-                            </div>
-                            <h4 class="card-title d-inline-block">Statistics</h4>
+                @await Component.InvokeAsync("_AdminDashboardFirstChartComponentPartial")
 
-                            <div id="morris-bar-example" class="morris-chart" style="height: 260px;"></div>
-
-                            <div class="row text-center mt-4">
-                                <div class="col-6">
-                                    <h4>$1875.54</h4>
-                                    <p class="text-muted mb-0">Revenue</p>
-                                </div>
-                                <div class="col-6">
-                                    <h4>541</h4>
-                                    <p class="text-muted mb-0">Total Offers</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> 
-
-                <div class="col-lg-4">
-                    <div class="card">
-                        <div class="card-body">
-                            <div class="dropdown float-right position-relative">
-                                <a href="#" class="dropdown-toggle h4 text-muted" data-toggle="dropdown"
-                                   aria-expanded="false">
-                                    <i class="mdi mdi-dots-vertical"></i>
-                                </a>
-                                <ul class="dropdown-menu dropdown-menu-right">
-                                    <li><a href="#" class="dropdown-item">Action</a></li>
-                                    <li><a href="#" class="dropdown-item">Another action</a></li>
-                                    <li><a href="#" class="dropdown-item">Something else here</a></li>
-                                    <li class="dropdown-divider"></li>
-                                    <li><a href="#" class="dropdown-item">Separated link</a></li>
-                                </ul>
-                            </div>
-                            <h4 class="card-title d-inline-block">Daily Sales</h4>
-
-                            <div id="morris-donut-example" class="morris-chart" style="height: 260px;"></div>
-
-                            <div class="row text-center mt-4">
-                                <div class="col-6">
-                                    <h4>5,459</h4>
-                                    <p class="text-muted mb-0">Total Sales</p>
-                                </div>
-                                <div class="col-6">
-                                    <h4>18</h4>
-                                    <p class="text-muted mb-0">Open Compaign</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-lg-4">
-                    <div class="card">
-                        <div class="card-body">
-                            <div class="dropdown float-right position-relative">
-                                <a href="#" class="dropdown-toggle h4 text-muted" data-toggle="dropdown"
-                                   aria-expanded="false">
-                                    <i class="mdi mdi-dots-vertical"></i>
-                                </a>
-                                <ul class="dropdown-menu dropdown-menu-right">
-                                    <li><a href="#" class="dropdown-item">Action</a></li>
-                                    <li><a href="#" class="dropdown-item">Another action</a></li>
-                                    <li><a href="#" class="dropdown-item">Something else here</a></li>
-                                    <li class="dropdown-divider"></li>
-                                    <li><a href="#" class="dropdown-item">Separated link</a></li>
-                                </ul>
-                            </div>
-                            <h4 class="card-title d-inline-block">Total Revenue</h4>
-
-                            <div id="morris-line-example" class="morris-chart" style="height: 260px;"></div>
-
-                            <div class="row text-center mt-4">
-                                <div class="col-6">
-                                    <h4>$7841.12</h4>
-                                    <p class="text-muted mb-0">Total Revenue</p>
-                                </div>
-                                <div class="col-6">
-                                    <h4>17</h4>
-                                    <p class="text-muted mb-0">Open Compaign</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
+                @await Component.InvokeAsync("_AdminDashboardSecondChartComponentPartial")
+                
+                @await Component.InvokeAsync("_AdminDashboardThirdChartComponentPartial")
+                
             </div>           
 
             <div class="row">

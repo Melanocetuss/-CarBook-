@@ -1,0 +1,65 @@
+﻿@using Newtonsoft.Json
+@model List<CarBook.Dto.AdminDashboardChartDtos.ResultCarCountByBrandNameDto>
+
+<div class="col-lg-4">
+    <div class="card">
+        <div class="card-body">
+
+            <h4 class="card-title d-inline-block">Araç Marka Sayılar</h4>
+
+            <div style="height: 260px;">
+
+                <canvas id="my2Chart" style="height:220px;"></canvas>
+                <script>
+                    // Razor ile veriyi JavaScript'e aktar
+                    var chartData = @Html.Raw(JsonConvert.SerializeObject(Model));
+
+                    // Verileri işleme
+                    var labels = chartData.map(item => item.BrandName); // Marka isimleri
+                    var dataValues = chartData.map(item => item.CarCount); // Araç sayıları
+
+                    var ctx = document.getElementById('my2Chart').getContext('2d');
+                    var myChart = new Chart(ctx, {
+                        type: 'pie',
+                        data: {
+                            labels: labels,
+                            datasets: [{
+                                label: 'Marka Grafik Listesi',
+                                data: dataValues,
+                                backgroundColor: [
+                                    'rgba(255,99,132,0.7)',
+                                    'rgba(54,162,235,0.7)',
+                                    'rgba(255,206,86,0.7)',
+                                    'rgba(75,192,192,0.7)',
+                                    'rgba(153,102,255,0.7)',
+                                    'rgba(255,159,64,0.7)',
+                                ],
+                                borderColor: [
+                                    'rgba(255,99,132,1)',
+                                    'rgba(54,162,235,1)',
+                                    'rgba(255,206,86,1)',
+                                    'rgba(75,192,192,1)',
+                                    'rgba(153,102,255,1)',
+                                    'rgba(255,159,64,1)',
+                                ],
+                                borderWidth: 1
+                            }]
+                        }
+                    });
+                </script>
+
+            </div>
+
+            <div class="row text-center mt-4">
+                <div class="col-6">
+                    <h4>@Model.Sum(x => x.CarCount)</h4>
+                    <p class="text-muted mb-0">Araç Sayısı</p>
+                </div>
+                <div class="col-6">
+                    <h4>@Model.Count</h4>
+                    <p class="text-muted mb-0">Marka Sayısı</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

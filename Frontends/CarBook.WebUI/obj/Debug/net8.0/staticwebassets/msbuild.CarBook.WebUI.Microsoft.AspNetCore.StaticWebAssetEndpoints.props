@@ -8424,6 +8424,18 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dzggynz1u5"},{"Name":"integrity","Value":"sha256-B7jY4e0uqaT/4FjO9Ee3ao7aoIw3A5S1xfIQfN5x6DI="},{"Name":"label","Value":"_content/CarBook.WebUI/CarBook.WebUI.bundle.scp.css"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022B7jY4e0uqaT/4FjO9Ee3ao7aoIw3A5S1xfIQfN5x6DI=\u0022"},{"Name":"Last-Modified","Value":"Sat, 04 Jan 2025 04:49:43 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarBook.WebUI/chart.be4xkwdksv.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\chart.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"be4xkwdksv"},{"Name":"integrity","Value":"sha256-g3gFGNlRlksDA7txanQSImyc4OyhmrO3cbeO7as0CII="},{"Name":"label","Value":"_content/CarBook.WebUI/chart.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"248724"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022g3gFGNlRlksDA7txanQSImyc4OyhmrO3cbeO7as0CII=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 15:10:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarBook.WebUI/chart.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\chart.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-g3gFGNlRlksDA7txanQSImyc4OyhmrO3cbeO7as0CII="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"248724"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022g3gFGNlRlksDA7txanQSImyc4OyhmrO3cbeO7as0CII=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 15:10:55 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/CarBook.WebUI/css/site.c2tiyv64ts.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
