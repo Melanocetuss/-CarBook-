@@ -4,5 +4,30 @@
     Layout = "~/Views/UILayout/Index.cshtml";
 }
 
-<h1>CarDetails</h1>
+<section class="ftco-section ftco-car-details">
+	<div class="container">
+		
+		@await Component.InvokeAsync("_CarDetailsMainCarFeatureComponentPartial", new { CarID = ViewBag.CarID })
 
+		<div class="row">
+			<div class="col-md-12 pills">
+				<div class="bd-example bd-example-tabs">
+					
+					@await Component.InvokeAsync("_CarDetailsTabPaneComponentPartail")
+					
+					<div class="tab-content" id="pills-tabContent">
+						
+						@await Component.InvokeAsync("_CarDetailsCarFeatureByCarIdComponentPartial", new { CarID = ViewBag.CarID })
+
+						@await Component.InvokeAsync("_CarDetailsDescriptionComponentPartial", new { CarID = ViewBag.CarID })
+
+						@await Component.InvokeAsync("_CarDetailsCommentByCarIdComponentPartial", new { CarID = ViewBag.CarID })
+					
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+	</div>
+</section>

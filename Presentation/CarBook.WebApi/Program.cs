@@ -26,6 +26,11 @@ using CarBook.Application.Interfaces.CarFeatureInterfaces;
 using CarBook.Persistence.Repositories.CarFeatureRepositories;
 using CarBook.Application.Interfaces.AdminDashboardChartInterfaces;
 using CarBook.Persistence.Repositories.AdminDashboardChartRepositories;
+using CarBook.Application.Interfaces.CarDescriptionsInterfaces;
+using CarBook.Persistence.Repositories.CarDescriptionsRepositories;
+using CarBook.Application.Interfaces.ReviewInterfaces;
+using CarBook.Persistence.Repositories.ReviewRepositories;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -41,6 +46,8 @@ builder.Services.AddScoped(typeof(IStatisticsRepository),typeof(StatisticsReposi
 builder.Services.AddScoped(typeof(IRentACarRepository),typeof(RentACarRepository));
 builder.Services.AddScoped(typeof(ICarFeatureRepository),typeof(CarFeatureRepository));
 builder.Services.AddScoped(typeof(IAdminDashboardChartRepository),typeof(AdminDashboardChartRepository));
+builder.Services.AddScoped(typeof(ICarDescriptionsRepository),typeof(CarDescriptionsRepository));
+builder.Services.AddScoped(typeof(IReviewRepository),typeof(ReviewRepository));
 
 builder.Services.AddScoped<GetAboutQueryHandler>();
 builder.Services.AddScoped<GetAboutByIdQueryHandler>();
@@ -67,6 +74,7 @@ builder.Services.AddScoped<UpdateCarCommandHandler>();
 builder.Services.AddScoped<RemoveCarCommandHandler>();
 builder.Services.AddScoped<GetCarWithBrandQueryHandler>();
 builder.Services.AddScoped<GetLast5CarsWithBrandQueryHandler>();
+builder.Services.AddScoped<GetCarWithBrandByCarIdQueryHandler>();
 
 builder.Services.AddScoped<GetCategoryQueryHandler>();
 builder.Services.AddScoped<GetCategoryByIdQueryHandler>();

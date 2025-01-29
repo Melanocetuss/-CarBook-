@@ -28,9 +28,12 @@ namespace CarBook.WebUI.Controllers
             }
             return View();
         }
-
-        public async Task<IActionResult> CarDetails()
+        [Route ("Car/CarDetails/{CarID}")]
+        public IActionResult CarDetails(int CarID)
         {
+            ViewBag.CarID = CarID;
+            ViewBag.v1 = "Araç Detayları";
+            ViewBag.v2 = "Aracın Teknik Detayları";        
             return View();
         }
     }

@@ -36,8 +36,8 @@ namespace CarBook.Persistence.Context
         public DbSet<Comment> Comments { get; set; }
         public DbSet<RentACar> RentACars { get; set; }
         public DbSet<Reservation> Reservations { get; set; }
-
-        // Reservation Entity'si için PickUpLocationID Ve DropOffLocationID'nin LocationID İle İlişkilendirilmesi 
+        public DbSet<Review> Reviews { get; set; }
+       
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<Reservation>()
