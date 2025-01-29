@@ -1,7 +1,20 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB1AEC3-B264-4C98-9C6C-420F61B4EF21}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\alpha\\desktop\\project\\c#\\carbook\\presentation\\carbook.webapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB1AEC3-B264-4C98-9C6C-420F61B4EF21}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8D53C72-C5EB-4948-9222-D55D6E1EFE73}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\alpha\\desktop\\project\\c#\\carbook\\core\\carbook.application\\validators\\reviewvalidators\\createreviewvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8D53C72-C5EB-4948-9222-D55D6E1EFE73}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\validators\\reviewvalidators\\createreviewvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB1AEC3-B264-4C98-9C6C-420F61B4EF21}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\alpha\\desktop\\project\\c#\\carbook\\presentation\\carbook.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDB1AEC3-B264-4C98-9C6C-420F61B4EF21}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +31,45 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateReviewValidator.cs",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Core\\CarBook.Application\\Validators\\ReviewValidators\\CreateReviewValidator.cs",
+              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Validators\\ReviewValidators\\CreateReviewValidator.cs",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Core\\CarBook.Application\\Validators\\ReviewValidators\\CreateReviewValidator.cs",
+              "RelativeToolTip": "Core\\CarBook.Application\\Validators\\ReviewValidators\\CreateReviewValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:59:31.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReviewsController.cs",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\ReviewsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\ReviewsController.cs",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\ReviewsController.cs",
+              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Controllers\\ReviewsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAgwCgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:42:00.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Presentation\\CarBook.WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Presentation\\CarBook.WebApi\\Program.cs",
+              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T19:38:39.209Z",
+              "EditorCaption": ""
             }
           ]
         }

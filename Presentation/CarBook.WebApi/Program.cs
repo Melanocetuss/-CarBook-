@@ -30,7 +30,11 @@ using CarBook.Application.Interfaces.CarDescriptionsInterfaces;
 using CarBook.Persistence.Repositories.CarDescriptionsRepositories;
 using CarBook.Application.Interfaces.ReviewInterfaces;
 using CarBook.Persistence.Repositories.ReviewRepositories;
-
+using FluentValidation.AspNetCore;
+using System.Reflection;
+using FluentValidation;
+using CarBook.Application.Validators.ReviewValidators;
+using CarBook.Application.Features.Mediator.Commands.ReviewCommands;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -49,6 +53,7 @@ builder.Services.AddScoped(typeof(IAdminDashboardChartRepository),typeof(AdminDa
 builder.Services.AddScoped(typeof(ICarDescriptionsRepository),typeof(CarDescriptionsRepository));
 builder.Services.AddScoped(typeof(IReviewRepository),typeof(ReviewRepository));
 
+#region CQRS Handlers
 builder.Services.AddScoped<GetAboutQueryHandler>();
 builder.Services.AddScoped<GetAboutByIdQueryHandler>();
 builder.Services.AddScoped<CreateAboutCommandHandler>();
@@ -87,6 +92,15 @@ builder.Services.AddScoped<GetContactByIdQueryHandler>();
 builder.Services.AddScoped<CreateContactCommandHandler>();
 builder.Services.AddScoped<UpdateContactCommandHandler>();
 builder.Services.AddScoped<RemoveContactCommandHandler>();
+#endregion
+
+#region Fluent Valdation
+builder.Services.AddControllers();
+builder.Services.AddValidatorsFromAssemblyContaining<CreateReviewValidator>(); 
+builder.Services.AddTransient<IValidator<CreateReviewCommand>, CreateReviewValidator>();
+
+builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(Assembly.GetExecutingAssembly()));
+#endregion
 
 builder.Services.AddApplicationService(builder.Configuration);
 
