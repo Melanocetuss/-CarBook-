@@ -17,7 +17,7 @@ namespace CarBook.Persistence.Migrations
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "9.0.0")
+                .HasAnnotation("ProductVersion", "9.0.1")
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
@@ -45,6 +45,61 @@ namespace CarBook.Persistence.Migrations
                     b.HasKey("AboutID");
 
                     b.ToTable("Abouts");
+                });
+
+            modelBuilder.Entity("CarBook.Domain.Entities.AppRole", b =>
+                {
+                    b.Property<int>("AppRoleID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("AppRoleID"));
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("AppRoleID");
+
+                    b.ToTable("AppRoles");
+                });
+
+            modelBuilder.Entity("CarBook.Domain.Entities.AppUser", b =>
+                {
+                    b.Property<int>("AppUserID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("AppUserID"));
+
+                    b.Property<int>("AppRoleID")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Email")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Password")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Surname")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Username")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("AppUserID");
+
+                    b.HasIndex("AppRoleID");
+
+                    b.ToTable("AppUsers");
                 });
 
             modelBuilder.Entity("CarBook.Domain.Entities.Author", b =>
@@ -736,6 +791,17 @@ namespace CarBook.Persistence.Migrations
                     b.ToTable("Testimonials");
                 });
 
+            modelBuilder.Entity("CarBook.Domain.Entities.AppUser", b =>
+                {
+                    b.HasOne("CarBook.Domain.Entities.AppRole", "AppRole")
+                        .WithMany("AppUsers")
+                        .HasForeignKey("AppRoleID")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("AppRole");
+                });
+
             modelBuilder.Entity("CarBook.Domain.Entities.Blog", b =>
                 {
                     b.HasOne("CarBook.Domain.Entities.Author", "Author")
@@ -907,6 +973,11 @@ namespace CarBook.Persistence.Migrations
                         .IsRequired();
 
                     b.Navigation("Blog");
+                });
+
+            modelBuilder.Entity("CarBook.Domain.Entities.AppRole", b =>
+                {
+                    b.Navigation("AppUsers");
                 });
 
             modelBuilder.Entity("CarBook.Domain.Entities.Author", b =>

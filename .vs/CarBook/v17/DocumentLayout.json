@@ -3,16 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DDB1AEC3-B264-4C98-9C6C-420F61B4EF21}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\alpha\\desktop\\project\\c#\\carbook\\presentation\\carbook.webapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDB1AEC3-B264-4C98-9C6C-420F61B4EF21}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\controllers\\reviewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E711CE5D-36F9-4A31-BFD4-D2C0F08B2BE4}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\alpha\\desktop\\project\\c#\\carbook\\frontends\\carbook.webui\\views\\register\\createappuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E711CE5D-36F9-4A31-BFD4-D2C0F08B2BE4}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\views\\register\\createappuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8D53C72-C5EB-4948-9222-D55D6E1EFE73}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\alpha\\desktop\\project\\c#\\carbook\\core\\carbook.application\\validators\\reviewvalidators\\createreviewvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8D53C72-C5EB-4948-9222-D55D6E1EFE73}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\validators\\reviewvalidators\\createreviewvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E711CE5D-36F9-4A31-BFD4-D2C0F08B2BE4}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\alpha\\desktop\\project\\c#\\carbook\\frontends\\carbook.webui\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E711CE5D-36F9-4A31-BFD4-D2C0F08B2BE4}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DDB1AEC3-B264-4C98-9C6C-420F61B4EF21}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|c:\\users\\alpha\\desktop\\project\\c#\\carbook\\presentation\\carbook.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DDB1AEC3-B264-4C98-9C6C-420F61B4EF21}|Presentation\\CarBook.WebApi\\CarBook.WebApi.csproj|solutionrelative:presentation\\carbook.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alpha\\Desktop\\Files Folder\\CarBookFrontends\\Admin\\vertical\\pages-register.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alpha\\Desktop\\Files Folder\\CarBookFrontends\\Admin\\vertical\\pages-login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,40 +37,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreateReviewValidator.cs",
-              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Core\\CarBook.Application\\Validators\\ReviewValidators\\CreateReviewValidator.cs",
-              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Validators\\ReviewValidators\\CreateReviewValidator.cs",
-              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Core\\CarBook.Application\\Validators\\ReviewValidators\\CreateReviewValidator.cs",
-              "RelativeToolTip": "Core\\CarBook.Application\\Validators\\ReviewValidators\\CreateReviewValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Controllers\\RegisterController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T19:59:31.332Z",
+              "WhenOpened": "2025-01-31T05:13:12.9Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ReviewsController.cs",
-              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\ReviewsController.cs",
-              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\ReviewsController.cs",
-              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\ReviewsController.cs",
-              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Controllers\\ReviewsController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAgwCgAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T19:42:00.389Z",
+              "Title": "CreateAppUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\Views\\Register\\CreateAppUser.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Views\\Register\\CreateAppUser.cshtml",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Frontends\\CarBook.WebUI\\Views\\Register\\CreateAppUser.cshtml",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Views\\Register\\CreateAppUser.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADwAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T05:31:04.851Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Presentation\\CarBook.WebApi\\Program.cs",
-              "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\alpha\\Desktop\\Project\\C#\\CarBook\\Presentation\\CarBook.WebApi\\Program.cs",
-              "RelativeToolTip": "Presentation\\CarBook.WebApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T19:38:39.209Z",
+              "Title": "pages-register.html",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Files Folder\\CarBookFrontends\\Admin\\vertical\\pages-register.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Files Folder\\CarBookFrontends\\Admin\\vertical\\pages-register.html",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Files Folder\\CarBookFrontends\\Admin\\vertical\\pages-register.html",
+              "RelativeToolTip": "..\\..\\..\\Files Folder\\CarBookFrontends\\Admin\\vertical\\pages-register.html",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAkwHIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-31T05:11:51.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pages-login.html",
+              "DocumentMoniker": "C:\\Users\\alpha\\Desktop\\Files Folder\\CarBookFrontends\\Admin\\vertical\\pages-login.html",
+              "RelativeDocumentMoniker": "..\\..\\..\\Files Folder\\CarBookFrontends\\Admin\\vertical\\pages-login.html",
+              "ToolTip": "C:\\Users\\alpha\\Desktop\\Files Folder\\CarBookFrontends\\Admin\\vertical\\pages-login.html",
+              "RelativeToolTip": "..\\..\\..\\Files Folder\\CarBookFrontends\\Admin\\vertical\\pages-login.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-01-31T05:11:26.984Z",
               "EditorCaption": ""
             }
           ]

@@ -30,14 +30,36 @@ using CarBook.Application.Interfaces.CarDescriptionsInterfaces;
 using CarBook.Persistence.Repositories.CarDescriptionsRepositories;
 using CarBook.Application.Interfaces.ReviewInterfaces;
 using CarBook.Persistence.Repositories.ReviewRepositories;
-using FluentValidation.AspNetCore;
 using System.Reflection;
 using FluentValidation;
 using CarBook.Application.Validators.ReviewValidators;
 using CarBook.Application.Features.Mediator.Commands.ReviewCommands;
+using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
+using CarBook.Application.Tools;
+using CarBook.Application.Interfaces.AppUserInterfaces;
+using CarBook.Persistence.Repositories.AppUserRepositories;
+using CarBook.Application.Interfaces.AppRoleInterfaces;
+using CarBook.Persistence.Repositories.AppRoleRepositories;
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opt =>
+{
+    opt.RequireHttpsMetadata = false;
+    opt.TokenValidationParameters = new TokenValidationParameters
+    {
+        ValidAudience = JwtTokenDefaults.ValidAudience,
+        ValidIssuer = JwtTokenDefaults.ValidIssuer,
+        ClockSkew = TimeSpan.Zero,
+        IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(JwtTokenDefaults.Key)),
+        ValidateLifetime = true,
+        ValidateIssuerSigningKey = true
+    };
+});
+
+#region IRepositories
 // Add services to the container.
 builder.Services.AddScoped<CarBookContext>();
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
@@ -52,6 +74,9 @@ builder.Services.AddScoped(typeof(ICarFeatureRepository),typeof(CarFeatureReposi
 builder.Services.AddScoped(typeof(IAdminDashboardChartRepository),typeof(AdminDashboardChartRepository));
 builder.Services.AddScoped(typeof(ICarDescriptionsRepository),typeof(CarDescriptionsRepository));
 builder.Services.AddScoped(typeof(IReviewRepository),typeof(ReviewRepository));
+builder.Services.AddScoped(typeof(IAppUserRepository),typeof(AppUserRepository));
+builder.Services.AddScoped(typeof(IAppRoleRepository),typeof(AppRoleRepository));
+#endregion
 
 #region CQRS Handlers
 builder.Services.AddScoped<GetAboutQueryHandler>();
@@ -120,6 +145,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();
