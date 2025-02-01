@@ -22,3 +22,8 @@ Projenin temel amacı, yazılım geliştirme süreçlerinde bu desenlerin nasıl
 
 Bu proje, yazılım geliştirme ve tasarım desenleri kullanarak daha temiz, modüler ve sürdürülebilir uygulamalar geliştirmeyi öğretmeyi amaçlamaktadır.
 
+Ekran goruntuleri
+![AddCarFeature](readmeImage/AddCarFeatures.png)
+![Api](readmeImage/CarDetail.png)
+![Api](readmeImage/.png)
+![Api](readmeImage/.png)
