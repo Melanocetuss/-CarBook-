@@ -42,9 +42,26 @@ using CarBook.Application.Interfaces.AppUserInterfaces;
 using CarBook.Persistence.Repositories.AppUserRepositories;
 using CarBook.Application.Interfaces.AppRoleInterfaces;
 using CarBook.Persistence.Repositories.AppRoleRepositories;
+using CarBook.WebApi.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
 
+#region SignaIR
+builder.Services.AddCors(opt =>
+{
+    opt.AddPolicy("CorsPolicy", builder =>
+    {
+        builder.AllowAnyHeader()
+        .AllowAnyMethod()
+        .SetIsOriginAllowed((host) => true)
+        .AllowCredentials();
+    });
+});
+
+builder.Services.AddSignalR();
+#endregion
+
+#region JwtBearer
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(opt =>
 {
     opt.RequireHttpsMetadata = false;
@@ -58,8 +75,9 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJw
         ValidateIssuerSigningKey = true
     };
 });
+#endregion
 
-#region IRepositories
+#region Registirations
 // Add services to the container.
 builder.Services.AddScoped<CarBookContext>();
 builder.Services.AddScoped(typeof(IRepository<>), typeof(Repository<>));
@@ -143,11 +161,13 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseHttpsRedirection();
+app.UseCors("CorsPolicy"); // SignaIR
 
-app.UseAuthentication();
+app.UseHttpsRedirection();
+app.UseAuthentication(); // Jwt AutHentication
 app.UseAuthorization();
 
 app.MapControllers();
+app.MapHub<CarHub>("/carhub"); // SignaIR Hub
 
 app.Run();

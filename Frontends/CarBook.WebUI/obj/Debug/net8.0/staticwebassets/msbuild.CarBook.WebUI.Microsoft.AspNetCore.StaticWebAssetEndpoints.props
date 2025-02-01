@@ -9156,5 +9156,29 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1117"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022hjIBkvmgxQXbNXK3B9YQ3t06RwLuQSQzC/dpvuB/lMk=\u0022"},{"Name":"Last-Modified","Value":"Wed, 25 Dec 2024 17:07:40 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarBook.WebUI/lib/microsoft/signalr/dist/browser/signalr.ikgtc44dzg.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\microsoft\signalr\dist\browser\signalr.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ikgtc44dzg"},{"Name":"integrity","Value":"sha256-IpWrjp\u002BiEzxJXyN6e4OsE8l7E4mXddX692fH80E\u002Bh3U="},{"Name":"label","Value":"_content/CarBook.WebUI/lib/microsoft/signalr/dist/browser/signalr.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"138756"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022IpWrjp\u002BiEzxJXyN6e4OsE8l7E4mXddX692fH80E\u002Bh3U=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 08:14:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarBook.WebUI/lib/microsoft/signalr/dist/browser/signalr.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\microsoft\signalr\dist\browser\signalr.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-IpWrjp\u002BiEzxJXyN6e4OsE8l7E4mXddX692fH80E\u002Bh3U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"138756"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022IpWrjp\u002BiEzxJXyN6e4OsE8l7E4mXddX692fH80E\u002Bh3U=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 08:14:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarBook.WebUI/lib/microsoft/signalr/dist/browser/signalr.min.533l9jid3v.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\microsoft\signalr\dist\browser\signalr.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"533l9jid3v"},{"Name":"integrity","Value":"sha256-H8jY1sheZeetYjYiVYLAMfvdULoKiH6FY\u002Bgn6z5n/Co="},{"Name":"label","Value":"_content/CarBook.WebUI/lib/microsoft/signalr/dist/browser/signalr.min.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"42303"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022H8jY1sheZeetYjYiVYLAMfvdULoKiH6FY\u002Bgn6z5n/Co=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 08:14:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/CarBook.WebUI/lib/microsoft/signalr/dist/browser/signalr.min.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\lib\microsoft\signalr\dist\browser\signalr.min.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-H8jY1sheZeetYjYiVYLAMfvdULoKiH6FY\u002Bgn6z5n/Co="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"42303"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022H8jY1sheZeetYjYiVYLAMfvdULoKiH6FY\u002Bgn6z5n/Co=\u0022"},{"Name":"Last-Modified","Value":"Sat, 01 Feb 2025 08:14:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>
