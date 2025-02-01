@@ -1,6 +1,6 @@
+# CarBook - Onion Mimarisi ile CQRS, Mediator ve Repository Deseni
 ![Index](readmeImage/Index.png)
 ![Dashboard](readmeImage/Dashboard.png)
-# CarBook - Onion Mimarisi ile CQRS, Mediator ve Repository Deseni
 
 **CarBook**, **ASP.NET Core** kullanılarak geliştirilmiş ve katmanlı mimari ile tasarım desenlerini keşfetmeyi ve uygulamayı amaçlayan bir projedir. Bu proje, **Onion Mimarisi** ve **CQRS (Command Query Responsibility Segregation)**, **Mediator** ve **Repository** tasarım desenlerini içerir.
 
