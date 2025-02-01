@@ -18,4 +18,4 @@ Projenin temel amacı, yazılım geliştirme süreçlerinde bu desenlerin nasıl
 - **CQRS**
 
 Bu proje, yazılım geliştirme ve tasarım desenleri kullanarak daha temiz, modüler ve sürdürülebilir uygulamalar geliştirmeyi öğretmeyi amaçlamaktadır.
-![API](https://prnt.sc/083hBtp9FCpq)
+![API](readmeImege/Api.png)
