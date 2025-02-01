@@ -31,3 +31,6 @@
     </ul>
 
     <p>Bu proje, iyi kurulmuş yazılım tasarım desenleri kullanarak ölçeklenebilir, temiz ve verimli uygulamalar geliştirmeye yönelik kapsamlı bir rehber sunmaktadır.</p>
+
+</body>
+</html>
