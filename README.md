@@ -17,12 +17,10 @@ Projenin temel amacı, yazılım geliştirme süreçlerinde bu desenlerin nasıl
 - **Entity Framework Core**
 - **Mediator**
 - **CQRS**
-
-![Api](readmeImage/Api.png)
-
 Bu proje, yazılım geliştirme ve tasarım desenleri kullanarak daha temiz, modüler ve sürdürülebilir uygulamalar geliştirmeyi öğretmeyi amaçlamaktadır.
 
 Ekran goruntuleri
+![Api](readmeImage/Api.png)
 ![resim](readmeImage/JwtBearer.png)
 ![resim](readmeImage/Diagram.png)
 ![resim](readmeImage/AddCarFeatures.png)
