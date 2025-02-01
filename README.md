@@ -1,24 +1,20 @@
-    <h1>CarBook - Onion Mimarisi ile CQRS, Mediator ve Repository Deseni</h1>
+# CarBook - Onion Mimarisi ile CQRS, Mediator ve Repository Deseni
 
-    <p><strong>CarBook</strong>, <strong>ASP.NET Core</strong> kullanılarak geliştirilmiş ve katmanlı mimari ile tasarım desenlerini keşfetmeyi ve uygulamayı amaçlayan bir projedir. Bu proje, <strong>Onion Mimarisi</strong> ve <strong>CQRS (Command Query Responsibility Segregation)</strong>, <strong>Mediator</strong> ve <strong>Repository</strong> tasarım desenlerini içerir.</p>
+**CarBook**, **ASP.NET Core** kullanılarak geliştirilmiş ve katmanlı mimari ile tasarım desenlerini keşfetmeyi ve uygulamayı amaçlayan bir projedir. Bu proje, **Onion Mimarisi** ve **CQRS (Command Query Responsibility Segregation)**, **Mediator** ve **Repository** tasarım desenlerini içerir.
 
-    <p>CarBook'un temel amacı, yazılım mimarisi ile ilgili anahtar kavramları öğrenmek ve uygulamaktır. Proje, <strong>ilgi alanlarını ayırma</strong>, <strong>ölçeklenebilirlik</strong> ve <strong>bakım kolaylığı</strong> üzerine odaklanır. Bu tasarım desenleri kullanılarak, uygulama temiz kod, sorumlulukların net bir şekilde ayrılması ve daha iyi test edilebilirlik sağlanmıştır.</p>
+Projenin temel amacı, yazılım geliştirme süreçlerinde bu desenlerin nasıl entegre edileceğini ve doğru şekilde nasıl uygulanacağını öğrenmektir. **Mediatör** deseni ile uygulamanın iş mantığı, komutlar ve sorgular arasındaki bağımsızlık sağlanırken, **Repository** deseni ile veri erişimi katmanı ayrıştırılmıştır.
 
-    <h2>Ana Özellikler:</h2>
-    <ul>
-        <li><strong>Onion Mimarisi</strong> ile modüler ve sürdürülebilir yapı</li>
-        <li><strong>CQRS</strong> ile komut ve sorgu işlemlerinin ayrılması</li>
-        <li><strong>Mediator Deseni</strong> ile iş mantığı, komutlar ve sorgular arasında gevşek bağlılık</li>
-        <li><strong>Repository Deseni</strong> ile soyutlanmış veri erişimi ve geliştirilmiş test edilebilirlik</li>
-    </ul>
+## Ana Özellikler:
+- **Onion Mimarisi** ile modüler ve sürdürülebilir yapı
+- **CQRS** ile komut ve sorgu işlemlerinin ayrılması
+- **Mediator Deseni** ile iş mantığı, komutlar ve sorgular arasında gevşek bağlılık
+- **Repository Deseni** ile soyutlanmış veri erişimi ve geliştirilmiş test edilebilirlik
 
-    <h2>Kullanılan Teknolojiler:</h2>
-    <ul>
-        <li><strong>ASP.NET Core</strong></li>
-        <li><strong>C#</strong></li>
-        <li><strong>Entity Framework Core</strong></li>
-        <li><strong>Mediator</strong></li>
-        <li><strong>CQRS</strong></li>
-    </ul>
+## Kullanılan Teknolojiler:
+- **ASP.NET Core**
+- **C#**
+- **Entity Framework Core**
+- **Mediator**
+- **CQRS**
 
-    <p>Bu proje, iyi kurulmuş yazılım tasarım desenleri kullanarak ölçeklenebilir, temiz ve verimli uygulamalar geliştirmeye yönelik kapsamlı bir rehber sunmaktadır.</p>
+Bu proje, yazılım geliştirme ve tasarım desenleri kullanarak daha temiz, modüler ve sürdürülebilir uygulamalar geliştirmeyi öğretmeyi amaçlamaktadır.
