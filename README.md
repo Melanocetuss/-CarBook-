@@ -5,8 +5,6 @@
 
 Projenin temel amacı, yazılım geliştirme süreçlerinde bu desenlerin nasıl entegre edileceğini ve doğru şekilde nasıl uygulanacağını öğrenmektir. **Mediator** deseni ile uygulamanın iş mantığı, komutlar ve sorgular arasındaki bağımsızlık sağlanırken, **Repository** deseni ile veri erişimi katmanı ayrıştırılmıştır.
 
-![Api](readmeImage/Api.png)
-
 ## Ana Özellikler:
 - **Onion Mimarisi** ile modüler ve sürdürülebilir yapı
 - **CQRS** ile komut ve sorgu işlemlerinin ayrılması
@@ -20,8 +18,7 @@ Projenin temel amacı, yazılım geliştirme süreçlerinde bu desenlerin nasıl
 - **Mediator**
 - **CQRS**
 
+![Api](readmeImage/Api.png)
+
 Bu proje, yazılım geliştirme ve tasarım desenleri kullanarak daha temiz, modüler ve sürdürülebilir uygulamalar geliştirmeyi öğretmeyi amaçlamaktadır.
-
-
-
 
