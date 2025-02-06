@@ -45,19 +45,19 @@ using CarBook.Persistence.Repositories.AppRoleRepositories;
 using CarBook.WebApi.Hubs;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddHttpClient();
 
-#region SignaIR
+#region CorsPolicy and SignalR
 builder.Services.AddCors(opt =>
 {
     opt.AddPolicy("CorsPolicy", builder =>
     {
         builder.AllowAnyHeader()
-        .AllowAnyMethod()
-        .SetIsOriginAllowed((host) => true)
-        .AllowCredentials();
+            .AllowAnyMethod()
+            .SetIsOriginAllowed((host) => true)
+            .AllowCredentials();
     });
 });
-
 builder.Services.AddSignalR();
 #endregion
 
@@ -147,7 +147,8 @@ builder.Services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(Assembly.Get
 
 builder.Services.AddApplicationService(builder.Configuration);
 
-builder.Services.AddControllers();
+//builder.Services.AddControllers(); // belki bundan
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -161,13 +162,13 @@ if (app.Environment.IsDevelopment())
     app.UseSwaggerUI();
 }
 
-app.UseCors("CorsPolicy"); // SignaIR
+app.UseCors("CorsPolicy"); // CorsPolicy used here
 
 app.UseHttpsRedirection();
-app.UseAuthentication(); // Jwt AutHentication
+app.UseAuthentication(); // Jwt Authentication
 app.UseAuthorization();
 
 app.MapControllers();
-app.MapHub<CarHub>("/carhub"); // SignaIR Hub
+app.MapHub<CarHub>("/carhub"); // End Point for Signal
 
 app.Run();

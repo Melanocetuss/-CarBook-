@@ -8,40 +8,31 @@
 
 @section Scripts
 {
-    <div class="content">
-        <div class="container-fluid">
-            <div class="row">
-                <div class="col-md-12">
-                    <div class="card">
-                        <script type="text/javascript">
-                            $(document).ready(() => {
-                                var connection = new signalR.HubConnectionBuilder().withUrl("https://localhost:7127/carhub").build();
+    <script type="text/javascript">
+        $(document).ready(() => {
+            
+            // Build Connection
+            var connection = new signalR.HubConnectionBuilder().withUrl("https://localhost:7127/carhub").build();
 
-                                // Bağlantı durumu yazdırmak için
-                                $("#constatus").text(connection.state);
+            // Connection Status
+            $("#constatus").text(connection.state);
+            
+            // Start Connection
+            connection.start().then(() => {
 
-                                connection.start().then(() => {
-                                    // Bağlantı başarılı olduğunda, durumu güncelle
-                                    $("#constatus").text(connection.state);
+                // Connection Status & Car Count
+                $("#constatus").text(connection.state);
+                setInterval(() => {
+                    connection.invoke("SendCarCount");
+                },1000);              
+            }).catch((err) => {console.log(err)});
 
-                                    // Araba sayısını almak için bir kere Invoke et
-                                    connection.invoke("SendCarCount");
-                                }).catch((err) => {
-                                    console.log(err);
-                                    $("#constatus").text("Bağlantı Hatası");
-                                });
-
-                                // Araba sayısını dinleyin
-                                connection.on("ReceiveCarCount", (value) => {
-                                    $("#carcount").text(value);
-                                });
-                            });
-                        </script>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+            // Car Count
+            connection.on("ReceiveCarCount", (value) => {
+                $("#carcount").text(value);
+            });
+        });
+    </script>
 }
 
 <div class="row">
